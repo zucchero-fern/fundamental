@@ -1,0 +1,505 @@
+Station,Region,Latitude,Longitude,Name,City_Name,State
+CWBD,northamerica,50.55,-103.65,"Indian Head Cda, Canada",Indian Head Cda, Canada
+CWBO,northamerica,50.55,-111.85,"Brooks, Canada",Brooks, Canada
+CWFJ,northamerica,49.2,-113.283,"Cardston, Canada",Cardston, Canada
+CWJX,northamerica,50.9,-109.5,"Leader Airport, Canada",Leader Airport, Canada
+CWQH,northamerica,45.367,-71.817,"Lenoxville, Canada",Lenoxville, Canada
+CWRY,northamerica,49.133,-112.05,"Milk River, Canada",Milk River, Canada
+CWVC,northamerica,50.267,-107.733,"Swift Current Cda, Canada",Swift Current Cda, Canada
+CWWP,northamerica,50.65,-99.933,"Wasagaming, Canada",Wasagaming, Canada
+CWYE,northamerica,51.483,-107.05,"Outlook Pfra, Canada",Outlook Pfra, Canada
+CXMW,northamerica,50.033,-110.717,"Medicine Hat Rcs, Canada",Medicine Hat Rcs, Canada
+CYAM,northamerica,46.4851,-84.5096,"Sault Ste Marie, ON",Sault Ste Marie, ON
+CYBR,northamerica,49.91,-99.9522,"Brandon, MB",Brandon, MB
+CYCT,northamerica,52.083,-111.45,"Coronation, Canada",Coronation, Canada
+CYEG,northamerica,53.3099,-113.579,"Edmonton Interna, AB",Edmonton Interna, AB
+CYEN,northamerica,49.2103,-102.966,"Estevan, SK",Estevan, SK
+CYFC,northamerica,45.8689,-66.5372,"Fredericton, NB",Fredericton, NB
+CYHM,northamerica,43.1737,-79.9351,"Hamilton, ON",Hamilton, ON
+CYHZ,northamerica,44.8812,-63.5087,"Halifax Internat, NS",Halifax Internat, NS
+CYJN,northamerica,45.3,-73.35,"L Acadie, Quebec, Canada",L Acadie,Canada
+CYLL,northamerica,53.3106,-110.074,"Lloydminster, AB",Lloydminster, AB
+CYLW,northamerica,49.9535,-119.375,"Kelowna Airport, BC",Kelowna Airport, BC
+CYMM,northamerica,56.6533,-111.223,"Ft. Mcmurray, AB",Ft. Mcmurray, AB
+CYOD,northamerica,54.41,-110.28,"Cold Lake, AB",Cold Lake, AB
+CYOW,northamerica,45.3225,-75.6673,"Ottawa/macdonald, ON",Ottawa/macdonald, ON
+CYPA,northamerica,53.2146,-105.673,"Prince Albert, SK",Prince Albert, SK
+CYPG,northamerica,49.9,-98.27,"Portage Southpor, MB",Portage Southpor, MB
+CYQB,northamerica,46.7912,-71.3933,"Quebec/jean Lesa, QC",Quebec/jean Lesa, QC
+CYQF,northamerica,52.1823,-113.894,"Red Deer Regiona, AB",Red Deer Regiona, AB
+CYQG,northamerica,42.2756,-82.9556,"Windsor, ON",Windsor, ON
+CYQR,northamerica,50.4322,-104.666,"Regina Internati, SK",Regina Internati, SK
+CYQT,northamerica,48.372,-89.3217,"Thunder Bay, ON",Thunder Bay, ON
+CYQU,northamerica,55.18,-118.885,"Grande Prairie, AB",Grande Prairie, AB
+CYQV,northamerica,51.267,-102.467,"Yorkton, Canada",Yorkton, Canada
+CYTR,northamerica,44.12,-77.53,"Trenton, ON",Trenton, ON
+CYUL,northamerica,45.4705,-73.7409,"Montreal/trudeau, QC",Montreal/trudeau, QC
+CYVR,northamerica,49.1947,-123.184,"Vancouver Intern, BC",Vancouver Intern, BC
+CYWG,northamerica,49.91,-97.2401,"Winnipeg Interna, MB",Winnipeg Interna, MB
+CYXS,northamerica,53.8842,-122.677,"Prince George, BC",Prince George, BC
+CYYC,northamerica,51.1226,-114.013,"Calgary Internat, AB",Calgary Internat, AB
+CYYT,northamerica,47.6186,-52.7524,"St. John's Inter, NL",St. John's Inter, NL
+CYYZ,northamerica,43.6767,-79.6307,"Toronto/pearson, ON",Toronto/pearson, ON
+CYZF,northamerica,62.4628,-114.44,"Yellowknife, NT",Yellowknife, NT
+CZMJ,northamerica,50.317,-105.55,"Moose Jaw Cs, Canada",Moose Jaw Cs, Canada
+CZPC,northamerica,49.517,-114,"Pincher Creek, Canada",Pincher Creek, Canada
+K1V4,northamerica,44.4167,-72.0167,"St. Johnsbury, VT",St. Johnsbury, VT
+KABE,northamerica,40.65,-75.45,"Allentown, PA",Allentown, PA
+KABI,northamerica,32.4167,-99.6833,"Abilene, TX",Abilene, TX
+KABQ,northamerica,35.05,-106.617,"Albuquerque, NM",Albuquerque, NM
+KABR,northamerica,45.46,-98.41,"Aberdeen, SD",Aberdeen, SD
+KABY,northamerica,31.5333,-84.2,"Albany, GA",Albany, GA
+KACT,northamerica,31.6167,-97.2333,"Waco, TX",Waco, TX
+KACV,northamerica,40.9833,-124.1,"Arcata/eureka, CA",Arcata/eureka, CA
+KACY,northamerica,39.4667,-74.5833,"Atlantic City, NJ",Atlantic City, NJ
+KAEX,northamerica,31.3333,-92.5667,"Alexandria, LA",Alexandria, LA
+KAGS,northamerica,33.3667,-81.9667,"Augusta/bush, GA",Augusta/bush, GA
+KAHN,northamerica,33.95,-83.3333,"Athens, GA",Athens, GA
+KAKO,northamerica,40.1667,-103.217,"Akron, CO",Akron, CO
+KAKR,northamerica,41.0333,-81.4667,"Akron (fulton), OH",Akron (fulton), OH
+KALB,northamerica,42.75,-73.8,"Albany, NY",Albany, NY
+KALI,northamerica,27.7333,-98.0167,"Alice, TX",Alice, TX
+KALO,northamerica,42.55,-92.4,"Waterloo, IA",Waterloo, IA
+KALW,northamerica,46.1,-118.283,"Walla Walla, WA",Walla Walla, WA
+KAMA,northamerica,35.2167,-101.717,"Amarillo, TX",Amarillo, TX
+KAMG,northamerica,31.5333,-82.5,"Alma, GA",Alma, GA
+KAMW,northamerica,41.9833,-93.6167,"Ames, IA",Ames, IA
+KANJ,northamerica,46.4667,-84.3667,"Sault Ste Marie, MI",Sault Ste Marie, MI
+KAOH,northamerica,40.7,-84.0167,"Lima, OH",Lima, OH
+KAOO,northamerica,40.3,-78.3167,"Altoona, PA",Altoona, PA
+KAPC,northamerica,38.2,-122.283,"Napa, CA",Napa, CA
+KAPN,northamerica,45.0667,-83.5667,"Alpena, MI",Alpena, MI
+KARB,northamerica,42.2167,-83.7333,"Ann Arbor, MI",Ann Arbor, MI
+KARM,northamerica,29.25,-96.15,"Wharton, TX",Wharton, TX
+KARR,northamerica,41.7667,-88.4833,"Chicago/aurora, IL",Chicago/aurora, IL
+KART,northamerica,43.9833,-76.0333,"Watertown, NY",Watertown, NY
+KAST,northamerica,46.15,-123.883,"Astoria, OR",Astoria, OR
+KATL,northamerica,33.6333,-84.45,"Atlanta, GA",Atlanta, GA
+KATT,northamerica,30.3167,-97.7667,"Austin/mabry, TX",Austin/mabry, TX
+KATY,northamerica,44.9,-97.15,"Watertown, SD",Watertown, SD
+KAUG,northamerica,44.3167,-69.8,"Augusta, ME",Augusta, ME
+KAUS,northamerica,30.1833,-97.6833,"Austin, TX",Austin, TX
+KAUW,northamerica,44.9333,-89.6167,"Wausau, WI",Wausau, WI
+KAVL,northamerica,35.4333,-82.5333,"Asheville, NC",Asheville, NC
+KAVP,northamerica,41.3333,-75.7167,"Scranton, PA",Scranton, PA
+KAWM,northamerica,35.1333,-90.2333,"W Memphis Muni, AR",W Memphis Muni, AR
+KAXN,northamerica,45.8667,-95.4,"Alexandria, MN",Alexandria, MN
+KAZO,northamerica,42.2333,-85.55,"Kalamazoo, MI",Kalamazoo, MI
+KBAF,northamerica,42.1667,-72.7167,"Westfield, MA",Westfield, MA
+KBAZ,northamerica,29.7167,-98.05,"New Braunfels, TX",New Braunfels, TX
+KBDL,northamerica,41.9333,-72.6833,"Hartford-bradley, CT",Hartford-bradley, CT
+KBDR,northamerica,41.1667,-73.1333,"Bridgeport, CT",Bridgeport, CT
+KBFD,northamerica,41.8,-78.6333,"Bradford, PA",Bradford, PA
+KBFF,northamerica,41.8667,-103.583,"Scottsbluff, NE",Scottsbluff, NE
+KBFL,northamerica,35.4333,-119.05,"Bakersfield, CA",Bakersfield, CA
+KBGM,northamerica,42.2167,-75.9833,"Binghamton, NY",Binghamton, NY
+KBHM,northamerica,33.5667,-86.75,"Birmingham, AL",Birmingham, AL
+KBIE,northamerica,40.301,-96.754,"Beatrice Muni, United states",Beatrice Muni, United states
+KBIL,northamerica,45.8,-108.55,"Billings, MT",Billings, MT
+KBIS,northamerica,46.7667,-100.75,"Bismarck, ND",Bismarck, ND
+KBKL,northamerica,41.5333,-81.6667,"Cleveland, OH",Cleveland, OH
+KBKW,northamerica,37.8,-81.1167,"Beckley, WV",Beckley, WV
+KBLH,northamerica,33.6167,-114.717,"Blythe, CA",Blythe, CA
+KBLU,northamerica,39.2833,-120.7,"Emigrant Gap, CA",Emigrant Gap, CA
+KBML,northamerica,44.5833,-71.1833,"Berlin, NH",Berlin, NH
+KBNA,northamerica,36.1167,-86.6833,"Nashville, TN",Nashville, TN
+KBNO,northamerica,43.6,-118.95,"Burns, OR",Burns, OR
+KBOI,northamerica,43.5667,-116.233,"Boise, ID",Boise, ID
+KBOS,northamerica,42.3667,-71.0167,"Boston, MA",Boston, MA
+KBPG,northamerica,32.2167,-101.517,"Big Spring, TX",Big Spring, TX
+KBPT,northamerica,29.95,-94.0333,"Beaumont/port Ar, TX",Beaumont/port Ar, TX
+KBRL,northamerica,40.7667,-91.1333,"Burlington, IA",Burlington, IA
+KBRO,northamerica,25.9167,-97.4167,"Brownsville, TX",Brownsville, TX
+KBTR,northamerica,30.5333,-91.15,"Baton Rouge, LA",Baton Rouge, LA
+KBTV,northamerica,44.4667,-73.15,"Burlington, VT",Burlington, VT
+KBUF,northamerica,42.9333,-78.7333,"Buffalo/cheektow, NY",Buffalo/cheektow, NY
+KBUR,northamerica,34.2,-118.367,"Burbank, CA",Burbank, CA
+KBWG,northamerica,36.9667,-86.4167,"Bowling Gree, KY",Bowling Gree, KY
+KBWI,northamerica,39.1667,-76.6833,"Balto/wash Intl, MD",Balto/wash Intl, MD
+KBZN,northamerica,45.7881,-111.161,"Bozeman, MT",Bozeman, MT
+KCAE,northamerica,33.9333,-81.1167,"Columbia, SC",Columbia, SC
+KCAK,northamerica,40.9167,-81.45,"Akron, OH",Akron, OH
+KCAR,northamerica,46.8667,-68.0167,"Caribou, ME",Caribou, ME
+KCCR,northamerica,38,-122.05,"Concord, CA",Concord, CA
+KCDS,northamerica,34.4333,-100.283,"Childress, TX",Childress, TX
+KCGI,northamerica,37.2333,-89.5833,"Cape Girardeau, MO",Cape Girardeau, MO
+KCHA,northamerica,35.0333,-85.2,"Chattanooga, TN",Chattanooga, TN
+KCHO,northamerica,38.1333,-78.45,"Charlottesville, VA",Charlottesville, VA
+KCHS,northamerica,32.9,-80.0333,"Charleston, SC",Charleston, SC
+KCID,northamerica,41.8833,-91.7167,"Cedar Rapids, IA",Cedar Rapids, IA
+KCIN,northamerica,42.046,-94.789,"Arthur N Neu, United states",Arthur N Neu, United states
+KCKB,northamerica,39.3,-80.2167,"Clarksburg, WV",Clarksburg, WV
+KCLE,northamerica,41.4167,-81.85,"Cleveland, OH",Cleveland, OH
+KCLL,northamerica,30.5833,-96.3667,"College Station, TX",College Station, TX
+KCLT,northamerica,35.2167,-80.95,"Charlotte, NC",Charlotte, NC
+KCMH,northamerica,40,-82.8833,"Columbus, OH",Columbus, OH
+KCNK,northamerica,39.55,-97.65,"Concordia, KS",Concordia, KS
+KCNU,northamerica,37.6667,-95.4833,"Chanute, KS",Chanute, KS
+KCON,northamerica,43.2,-71.5,"Concord, NH",Concord, NH
+KCOS,northamerica,38.8167,-104.717,"Colorado Springs, CO",Colorado Springs, CO
+KCOU,northamerica,38.8167,-92.2167,"Columbia, MO",Columbia, MO
+KCPR,northamerica,42.9,-106.467,"Casper, WY",Casper, WY
+KCQT,northamerica,34.0167,-118.283,"Los Angeles, CA",Los Angeles, CA
+KCRP,northamerica,27.7667,-97.5,"Corpus Christi, TX",Corpus Christi, TX
+KCRW,northamerica,38.3833,-81.5833,"Charleston, WV",Charleston, WV
+KCSG,northamerica,32.5167,-84.95,"Columbus, GA",Columbus, GA
+KCSM,northamerica,35.35,-99.2,"Clinton, OK",Clinton, OK
+KCSV,northamerica,35.95,-85.0833,"Crossville, TN",Crossville, TN
+KCVG,northamerica,39.05,-84.6667,"Covington, KY",Covington, KY
+KCXY,northamerica,40.2167,-76.85,"Harrisburg, PA",Harrisburg, PA
+KCYS,northamerica,41.15,-104.817,"Cheyenne, WY",Cheyenne, WY
+KCZT,northamerica,28.3,-99.5,"Carrizo Springs Dimmit County Airport, TX",Carrizo Springs Dimmit County Airport, TX
+KDAB,northamerica,29.1833,-81.0667,"Daytona Beach, FL",Daytona Beach, FL
+KDAG,northamerica,34.85,-116.783,"Daggett, CA",Daggett, CA
+KDAL,northamerica,32.85,-96.85,"Dallas/love Fld, TX",Dallas/love Fld, TX
+KDAY,northamerica,39.9,-84.2167,"Dayton, OH",Dayton, OH
+KDBQ,northamerica,42.4,-90.7,"Dubuque, IA",Dubuque, IA
+KDCA,northamerica,38.85,-77.0333,"Washington/natl, DC",Washington/natl, DC
+KDDC,northamerica,37.7667,-99.9667,"Dodge City, KS",Dodge City, KS
+KDDH,northamerica,42.8833,-73.25,"Bennington, VT",Bennington, VT
+KDEC,northamerica,39.8333,-88.85,"Decatur, IL",Decatur, IL
+KDEN,northamerica,39.8333,-104.65,"Denver, CO",Denver, CO
+KDFW,northamerica,32.9,-97.0167,"Dallas/ft Worth, TX",Dallas/ft Worth, TX
+KDHT,northamerica,36.0167,-102.55,"Dalhart, TX",Dalhart, TX
+KDLH,northamerica,46.85,-92.2,"Duluth, MN",Duluth, MN
+KDLS,northamerica,45.6167,-121.167,"The Dalles, OR",The Dalles, OR
+KDOV,northamerica,39.133,-75.4667,"Dover Afb, DE",Dover Afb, DE
+KDRT,northamerica,29.3667,-100.917,"Del Rio, TX",Del Rio, TX
+KDSM,northamerica,41.5333,-93.6667,"Des Moines, IA",Des Moines, IA
+KDTW,northamerica,42.2333,-83.3333,"Detroit/wayne, MI",Detroit/wayne, MI
+KDVL,northamerica,48.117,-98.9,"Devils Lake Muni, United states",Devils Lake Muni, United states
+KDVN,northamerica,41.6167,-90.5833,"Davenport/quad C, IA",Davenport/quad C, IA
+KEAU,northamerica,44.8667,-91.4667,"Eau Claire, WI",Eau Claire, WI
+KECG,northamerica,36.2667,-76.1833,"Elizabeth City, NC",Elizabeth City, NC
+KEDW,northamerica,34.9,-117.867,"Edwards Afb, United states",Edwards Afb, United states
+KEKA,northamerica,40.81,-124.16,"Eureka, United states",Eureka, United states
+KEKN,northamerica,38.8833,-79.85,"Elkins, WV",Elkins, WV
+KELD,northamerica,33.2167,-92.8167,"El Dorado, AR",El Dorado, AR
+KELN,northamerica,47.0333,-120.533,"Ellensburg, WA",Ellensburg, WA
+KELP,northamerica,31.8167,-106.383,"El Paso, TX",El Paso, TX
+KELY,northamerica,39.3,-114.85,"Ely, NV",Ely, NV
+KELZ,northamerica,42.1,-77.9833,"Wellsville, NY",Wellsville, NY
+KEMP,northamerica,38.3333,-96.2,"Emporia, KS",Emporia, KS
+KERI,northamerica,42.0833,-80.1833,"Erie, PA",Erie, PA
+KEUG,northamerica,44.1333,-123.217,"Eugene, OR",Eugene, OR
+KEVV,northamerica,38.05,-87.5167,"Evansville, IN",Evansville, IN
+KEWN,northamerica,35.0667,-77.05,"New Bern, NC",New Bern, NC
+KEWR,northamerica,40.6833,-74.1667,"Newark, NJ",Newark, NJ
+KEYW,northamerica,24.55,-81.75,"Key West, FL",Key West, FL
+KF05,northamerica,34.226,-99.284,"Wilbarger Co, United states",Wilbarger Co, United states
+KFAR,northamerica,46.9333,-96.8167,"Fargo, ND",Fargo, ND
+KFAT,northamerica,36.7833,-119.717,"Fresno, CA",Fresno, CA
+KFCA,northamerica,48.3042,-114.264,"Glacier Park Intl Arpt, Mt, United States",Glacier Park Intl Arpt, Mt
+KFDR,northamerica,34.35,-98.9833,"Frederick/altus, OK",Frederick/altus, OK
+KFDY,northamerica,41.0167,-83.6667,"Findlay, OH",Findlay, OH
+KFLD,northamerica,43.7667,-88.4833,"Fond Du Lac, WI",Fond Du Lac, WI
+KFLG,northamerica,35.1333,-111.667,"Flagstaff, AZ",Flagstaff, AZ
+KFLO,northamerica,34.1833,-79.7333,"Florence, SC",Florence, SC
+KFMN,northamerica,36.75,-108.233,"Farmington, NM",Farmington, NM
+KFMY,northamerica,26.5833,-81.8667,"Fort Myers, FL",Fort Myers, FL
+KFNB,northamerica,40.08,-95.592,"Falls City/brenner, United states",Falls City/brenner, United states
+KFNT,northamerica,42.9667,-83.75,"Flint, MI",Flint, MI
+KFSD,northamerica,43.5833,-96.75,"Sioux Falls, SD",Sioux Falls, SD
+KFSM,northamerica,35.3333,-94.3667,"Fort Smith, AR",Fort Smith, AR
+KFST,northamerica,30.9167,-102.917,"Fort Stockton, TX",Fort Stockton, TX
+KFTW,northamerica,32.8333,-97.3667,"Fort Worth, TX",Fort Worth, TX
+KFTY,northamerica,33.7833,-84.5167,"Atlanta/fulton, GA",Atlanta/fulton, GA
+KFWA,northamerica,40.9833,-85.1833,"Fort Wayne, IN",Fort Wayne, IN
+KFYV,northamerica,36.0167,-94.1667,"Fayetteville, AR",Fayetteville, AR
+KGAG,northamerica,36.3,-99.7667,"Gage, OK",Gage, OK
+KGCK,northamerica,37.9167,-100.717,"Garden City, KS",Garden City, KS
+KGEG,northamerica,47.6167,-117.533,"Spokane/metro, WA",Spokane/metro, WA
+KGFK,northamerica,47.95,-97.1833,"Grand Forks, ND",Grand Forks, ND
+KGGW,northamerica,48.2167,-106.617,"Glasgow, MT",Glasgow, MT
+KGJT,northamerica,39.1167,-108.517,"Grand Junction, CO",Grand Junction, CO
+KGLD,northamerica,39.3667,-101.7,"Goodland, KS",Goodland, KS
+KGLE,northamerica,33.65,-97.2,"Gainesville, TX",Gainesville, TX
+KGLH,northamerica,33.5,-90.9833,"Greenville, MS",Greenville, MS
+KGLS,northamerica,29.2667,-94.8667,"Galveston, TX",Galveston, TX
+KGNV,northamerica,29.7,-82.2833,"Gainesville, FL",Gainesville, FL
+KGPI,northamerica,48.3167,-114.25,"Kalispell, MT",Kalispell, MT
+KGRB,northamerica,44.4833,-88.1333,"Ashwaubenon, WI",Ashwaubenon, WI
+KGRI,northamerica,40.9667,-98.3167,"Grand Island, NE",Grand Island, NE
+KGRK,northamerica,31.067,-97.833,"Robert Gray Aaf, United states",Robert Gray Aaf, United states
+KGRR,northamerica,42.8833,-85.5167,"Grand Rapids, MI",Grand Rapids, MI
+KGSO,northamerica,36.1,-79.95,"Greensboro, NC",Greensboro, NC
+KGSP,northamerica,34.9,-82.2167,"Greer/spartansbg, SC",Greer/spartansbg, SC
+KGTF,northamerica,47.4667,-111.383,"Great Falls, MT",Great Falls, MT
+KGUS,northamerica,40.6481,-86.1521,"Grissom Afb, IN",Grissom Afb, IN
+KGVT,northamerica,33.068,-96.065,"Majors, United states",Majors, United states
+KGWO,northamerica,33.5,-90.0833,"Greenwood, MS",Greenwood, MS
+KHAT,northamerica,35.2667,-75.55,"Cape Hatteras, NC",Cape Hatteras, NC
+KHBR,northamerica,34.9833,-99.05,"Hobart, OK",Hobart, OK
+KHFD,northamerica,41.7333,-72.65,"Hartford, CT",Hartford, CT
+KHKA,northamerica,35.9333,-89.8333,"Blytheville, AR",Blytheville, AR
+KHLC,northamerica,39.3667,-99.8333,"Hill City, KS",Hill City, KS
+KHLN,northamerica,46.6,-111.967,"Helena, MT",Helena, MT
+KHON,northamerica,44.3833,-98.2333,"Huron, SD",Huron, SD
+KHOU,northamerica,29.6333,-95.2833,"Houston/hobby, TX",Houston/hobby, TX
+KHPN,northamerica,41.0667,-73.7,"White Plains, NY",White Plains, NY
+KHRI,northamerica,45.8333,-119.267,"Hermiston, OR",Hermiston, OR
+KHRO,northamerica,36.2667,-93.15,"Harrison, AR",Harrison, AR
+KHSE,northamerica,35.2333,-75.6167,"Hatteras/mitchel, NC",Hatteras/mitchel, NC
+KHSP,northamerica,37.95,-79.8167,"Hot Springs/inga, VA",Hot Springs/inga, VA
+KHSV,northamerica,34.65,-86.7833,"Huntsville, AL",Huntsville, AL
+KHTL,northamerica,44.35,-84.6667,"Houghton Lake, MI",Houghton Lake, MI
+KHTS,northamerica,38.3667,-82.55,"Huntington, WV",Huntington, WV
+KHVN,northamerica,41.2667,-72.8667,"New Haven/tweed, CT",New Haven/tweed, CT
+KHVR,northamerica,48.55,-109.767,"Havre, MT",Havre, MT
+KIAD,northamerica,38.9333,-77.45,"Wash Dc/dulles, VA",Wash Dc/dulles, VA
+KIAH,northamerica,30,-95.3667,"Houston/intnl, TX",Houston/intnl, TX
+KICT,northamerica,37.65,-97.4333,"Wichita, KS",Wichita, KS
+KIDA,northamerica,43.5167,-112.067,"Idaho Falls, ID",Idaho Falls, ID
+KIKK,northamerica,41.0667,-87.85,"Kankakee, IL",Kankakee, IL
+KILG,northamerica,39.6667,-75.6,"Wilmington, DE",Wilmington, DE
+KILM,northamerica,34.2667,-77.9,"Wilmington, NC",Wilmington, NC
+KIND,northamerica,39.7167,-86.3,"Indianapolis, IN",Indianapolis, IN
+KINK,northamerica,31.7833,-103.2,"Wink, TX",Wink, TX
+KINL,northamerica,48.5667,-93.4,"Interntnl Falls, MN",Interntnl Falls, MN
+KINT,northamerica,36.1333,-80.2167,"Winston Salem, NC",Winston Salem, NC
+KINW,northamerica,35.0333,-110.717,"Winslow, AZ",Winslow, AZ
+KIPL,northamerica,32.8333,-115.583,"Imperial, CA",Imperial, CA
+KIPT,northamerica,41.25,-76.9167,"Williamsport, PA",Williamsport, PA
+KIRK,northamerica,40.1,-92.55,"Kirksville, MO",Kirksville, MO
+KISP,northamerica,40.8,-73.1,"Islip, NY",Islip, NY
+KISW,northamerica,44.3667,-89.8333,"Wisconsin Rapids, WI",Wisconsin Rapids, WI
+KITR,northamerica,39.25,-102.283,"Burlington, CO",Burlington, CO
+KJAN,northamerica,32.3167,-90.0833,"Jackson, MS",Jackson, MS
+KJAX,northamerica,30.5,-81.6833,"Jacksonville, FL",Jacksonville, FL
+KJBR,northamerica,35.8333,-90.65,"Jonesboro, AR",Jonesboro, AR
+KJCT,northamerica,30.5105,-99.7665,"Junction, TX",Junction, TX
+KJFK,northamerica,40.6333,-73.7667,"Nyc/jfk Arpt, NY",Nyc/jfk Arpt, NY
+KJHW,northamerica,42.15,-79.25,"Chatauqua Co Jamesto, United states",Chatauqua Co Jamesto, United states
+KJLN,northamerica,37.15,-94.5,"Joplin, MO",Joplin, MO
+KJMS,northamerica,46.9333,-98.6667,"Jamestown, ND",Jamestown, ND
+KJXN,northamerica,42.267,-84.467,"Jackson Co Reynolds, United states",Jackson Co Reynolds, United states
+KKLS,northamerica,46.117,-122.894,"Kelso Longview, United states",Kelso Longview, United states
+KLAA,northamerica,38.0667,-102.683,"Lamar, CO",Lamar, CO
+KLAF,northamerica,40.4167,-86.9333,"Lafayette, IN",Lafayette, IN
+KLAL,northamerica,27.9889,-82.0186,"Lakeland Reg Ap, FL",Lakeland Reg Ap, FL
+KLAN,northamerica,42.7833,-84.5833,"Lansing, MI",Lansing, MI
+KLAS,northamerica,36.0833,-115.15,"Las Vegas, NV",Las Vegas, NV
+KLAW,northamerica,34.55,-98.4167,"Lawton, OK",Lawton, OK
+KLAX,northamerica,33.9333,-118.383,"Los Angeles, CA",Los Angeles, CA
+KLBB,northamerica,33.6667,-101.817,"Lubbock, TX",Lubbock, TX
+KLBF,northamerica,41.1167,-100.667,"North Platte, NE",North Platte, NE
+KLBT,northamerica,34.6,-79.0667,"Lumberton, NC",Lumberton, NC
+KLBX,northamerica,29.1167,-95.4667,"Angleton, TX",Angleton, TX
+KLCH,northamerica,30.1333,-93.2167,"Lake Charles, LA",Lake Charles, LA
+KLEW,northamerica,44.05,-70.283,"Auburn Lewiston Muni, United states",Auburn Lewiston Muni, United states
+KLEX,northamerica,38.0333,-84.6,"Lexington, KY",Lexington, KY
+KLFK,northamerica,31.2333,-94.75,"Lufkin, TX",Lufkin, TX
+KLFT,northamerica,30.2,-92,"Lafayette, LA",Lafayette, LA
+KLGA,northamerica,40.7833,-73.8833,"La Guardia, NY",La Guardia, NY
+KLGB,northamerica,33.8167,-118.15,"Long Beach, CA",Long Beach, CA
+KLIT,northamerica,34.7333,-92.2333,"Little Rock, AR",Little Rock, AR
+KLLQ,northamerica,33.6333,-91.75,"Monticello, AR",Monticello, AR
+KLND,northamerica,42.8167,-108.733,"Lander, WY",Lander, WY
+KLNK,northamerica,40.85,-96.7667,"Lincoln, NE",Lincoln, NE
+KLNS,northamerica,40.1167,-76.3,"Lancaster, PA",Lancaster, PA
+KLRD,northamerica,27.533,-99.467,"Larado Intl Ap, TX",Larado Intl Ap, TX
+KLSE,northamerica,43.8833,-91.25,"La Crosse, WI",La Crosse, WI
+KLUK,northamerica,39.1,-84.4167,"Cincinnat/lunken, OH",Cincinnat/lunken, OH
+KLVK,northamerica,37.7,-121.817,"Livermore, CA",Livermore, CA
+KLWB,northamerica,37.867,-80.4,"Greenbrier Valley, United states",Greenbrier Valley, United states
+KLWS,northamerica,46.3667,-117.017,"Lewiston, ID",Lewiston, ID
+KLWV,northamerica,38.7667,-87.6,"Lawrenceville, IL",Lawrenceville, IL
+KLYH,northamerica,37.3167,-79.2,"Lynchburg, VA",Lynchburg, VA
+KLZK,northamerica,34.835,-92.26,"Little Rock/adams F, United states",Little Rock/adams F, United states
+KMAF,northamerica,31.95,-102.2,"Midland, TX",Midland, TX
+KMBS,northamerica,43.5333,-84.0833,"Saginaw, MI",Saginaw, MI
+KMCB,northamerica,31.1833,-90.4667,"Mccomb, MS",Mccomb, MS
+KMCE,northamerica,37.2833,-120.5,"Merced, CA",Merced, CA
+KMCI,northamerica,39.3,-94.7333,"Kansas City, MO",Kansas City, MO
+KMCN,northamerica,32.6833,-83.65,"Macon, GA",Macon, GA
+KMCO,northamerica,28.4167,-81.3333,"Orlando, FL",Orlando, FL
+KMCW,northamerica,43.15,-93.3333,"Mason City, IA",Mason City, IA
+KMDT,northamerica,40.2,-76.7667,"Middletown, PA",Middletown, PA
+KMDW,northamerica,41.7833,-87.75,"Chicago, IL",Chicago, IL
+KMEI,northamerica,32.3333,-88.75,"Meridian/key Fld, MS",Meridian/key Fld, MS
+KMEM,northamerica,35.0667,-89.9833,"Memphis, TN",Memphis, TN
+KMFD,northamerica,40.8167,-82.5167,"Mansfield, OH",Mansfield, OH
+KMFE,northamerica,26.1833,-98.25,"Mcallen, TX",Mcallen, TX
+KMFI,northamerica,44.6333,-90.1833,"Marshfield, WI",Marshfield, WI
+KMFR,northamerica,42.3833,-122.867,"Medford, OR",Medford, OR
+KMGM,northamerica,32.3,-86.4,"Montgomery, AL",Montgomery, AL
+KMHS,northamerica,41.3167,-122.317,"Mount Shasta, CA",Mount Shasta, CA
+KMHT,northamerica,42.9333,-71.4333,"Manchester, NH",Manchester, NH
+KMHV,northamerica,35.067,-118.15,"Mojave, United states",Mojave, United states
+KMIA,northamerica,25.8,-80.2833,"Miami, FL",Miami, FL
+KMJQ,northamerica,43.65,-94.986,"Jackson Muni, United states",Jackson Muni, United states
+KMKC,northamerica,39.1167,-94.6,"Kansas City/dntn, MO",Kansas City/dntn, MO
+KMKE,northamerica,42.95,-87.9,"Milwaukee, WI",Milwaukee, WI
+KMKG,northamerica,43.1667,-86.2333,"Muskegon, MI",Muskegon, MI
+KMKL,northamerica,35.6,-88.9167,"Jackson, TN",Jackson, TN
+KMLB,northamerica,28.1,-80.65,"Melbourne, FL",Melbourne, FL
+KMLI,northamerica,41.45,-90.5167,"Moline/quad City, IL",Moline/quad City, IL
+KMLS,northamerica,46.4333,-105.883,"Miles City, MT",Miles City, MT
+KMLU,northamerica,32.5167,-92.0333,"Monroe, LA",Monroe, LA
+KMNN,northamerica,40.6167,-83.0667,"Marion, OH",Marion, OH
+KMOB,northamerica,30.6833,-88.25,"Mobile/bates, AL",Mobile/bates, AL
+KMOD,northamerica,37.6167,-120.95,"Modesto, CA",Modesto, CA
+KMOT,northamerica,48.25,-101.267,"Minot, ND",Minot, ND
+KMRF,northamerica,30.371,-104.017,"Marfa Ap, United states",Marfa Ap, United states
+KMSL,northamerica,34.75,-87.6,"Muscle Shoal, AL",Muscle Shoal, AL
+KMSN,northamerica,43.1333,-89.35,"Madison, WI",Madison, WI
+KMSO,northamerica,46.9167,-114.1,"Missoula, MT",Missoula, MT
+KMSP,northamerica,44.8833,-93.2333,"Minneapolis, MN",Minneapolis, MN
+KMSS,northamerica,44.9333,-74.85,"Massena, NY",Massena, NY
+KMSY,northamerica,30,-90.25,"New Orleans/intl, LA",New Orleans/intl, LA
+KMTO,northamerica,39.4667,-88.2667,"Mattoon/charlest, IL",Mattoon/charlest, IL
+KMWL,northamerica,32.7833,-98.0667,"Mineral Wells, TX",Mineral Wells, TX
+KMYV,northamerica,39.1,-121.567,"Marysville, CA",Marysville, CA
+KNEW,northamerica,30.05,-90.0333,"New Orleans/lake, LA",New Orleans/lake, LA
+KNJK,northamerica,32.817,-115.683,"El Centro Naf, United states",El Centro Naf, United states
+KNQI,northamerica,27.5,-97.817,"Kingsville Nas, United states",Kingsville Nas, United states
+KNYC,northamerica,40.7833,-73.9667,"Nyc/central Park, NY",Nyc/central Park, NY
+KNYL,northamerica,32.6333,-114.617,"Yuma Mcas, AZ",Yuma Mcas, AZ
+KOAK,northamerica,37.7,-122.217,"Oakland, CA",Oakland, CA
+KODX,northamerica,41.623,-98.948,"Evelyn Sharp Fld, United states",Evelyn Sharp Fld, United states
+KOFK,northamerica,41.9833,-97.4333,"Norfolk, NE",Norfolk, NE
+KOKC,northamerica,35.3833,-97.6,"Oklahoma City, OK",Oklahoma City, OK
+KOMA,northamerica,41.3167,-95.9,"Omaha/eppley, NE",Omaha/eppley, NE
+KONT,northamerica,34.05,-117.583,"Ontario, CA",Ontario, CA
+KORD,northamerica,41.9833,-87.9333,"Chicago O'hare, IL",Chicago O'hare, IL
+KORF,northamerica,36.9,-76.2,"Norfolk, VA",Norfolk, VA
+KORH,northamerica,42.2667,-71.8667,"Worcester, MA",Worcester, MA
+KOSH,northamerica,43.9667,-88.55,"Oshkosh, WI",Oshkosh, WI
+KOTM,northamerica,41.1,-92.45,"Ottumwa, IA",Ottumwa, IA
+KOUN,northamerica,35.25,-97.467,"Norman/max Westheim, United states",Norman/max Westheim, United states
+KOXR,northamerica,34.2,-119.2,"Oxnard, CA",Oxnard, CA
+KOZA,northamerica,30.735,-101.203,"Ozona Muni, United states",Ozona Muni, United states
+KPAH,northamerica,37.0667,-88.7667,"Paducah, KY",Paducah, KY
+KPBG,northamerica,44.651,-73.468,"Plattsburgh Intl, United states",Plattsburgh Intl, United states
+KPBI,northamerica,26.6833,-80.1,"West Palm Beach, FL",West Palm Beach, FL
+KPDT,northamerica,45.7,-118.833,"Pendleton, OR",Pendleton, OR
+KPDX,northamerica,45.5833,-122.6,"Portland, OR",Portland, OR
+KPHL,northamerica,39.8667,-75.2333,"Philadelphia, PA",Philadelphia, PA
+KPHX,northamerica,33.4333,-112.017,"Phoenix/sky Hrbr, AZ",Phoenix/sky Hrbr, AZ
+KPIA,northamerica,40.6667,-89.6833,"Peoria, IL",Peoria, IL
+KPIH,northamerica,42.9167,-112.567,"Pocatello, ID",Pocatello, ID
+KPIT,northamerica,40.5,-80.2667,"Pittsburgh, PA",Pittsburgh, PA
+KPKB,northamerica,39.35,-81.4167,"Parkersburg, WV",Parkersburg, WV
+KPMD,northamerica,34.6333,-118.083,"Palmdale, CA",Palmdale, CA
+KPNC,northamerica,36.7333,-97.1,"Ponca City, OK",Ponca City, OK
+KPNS,northamerica,30.4833,-87.1833,"Pensacola, FL",Pensacola, FL
+KPOF,northamerica,36.7667,-90.3167,"Popular Bluff, MO",Popular Bluff, MO
+KPOU,northamerica,41.6333,-73.8833,"Poughkeepsie, NY",Poughkeepsie, NY
+KPPF,northamerica,37.3333,-95.5,"Parsons, KS",Parsons, KS
+KPQI,northamerica,46.683,-68.05,"Presque Isle (awos), United states",Presque Isle (awos), United states
+KPQN,northamerica,43.983,-96.3,"Pipestone Muni, United states",Pipestone Muni, United states
+KPRB,northamerica,35.6667,-120.633,"Paso Robles, CA",Paso Robles, CA
+KPRS,northamerica,29.4,-104.2,"Presidio Lely International Airport, TX",Presidio Lely International Airport, TX
+KPRX,northamerica,33.6366,-95.4507,"Paris, TX",Paris, TX
+KPSC,northamerica,46.2667,-119.117,"Pasco, WA",Pasco, WA
+KPSP,northamerica,33.8167,-116.5,"Palm Springs, CA",Palm Springs, CA
+KPSX,northamerica,28.725,-96.254,"Palacios Muni, United states",Palacios Muni, United states
+KPTV,northamerica,36.029,-119.063,"Porterville Muni, United states",Porterville Muni, United states
+KPUB,northamerica,38.283,-104.5,"Pueblo, CO",Pueblo, CO
+KPVD,northamerica,41.7167,-71.4333,"Providence/green, RI",Providence/green, RI
+KPVU,northamerica,40.2192,-111.723,"Provo Airport, UT",Provo Airport, UT
+KPWM,northamerica,43.65,-70.3,"Portland, ME",Portland, ME
+KRAL,northamerica,33.95,-117.45,"Riverside, CA",Riverside, CA
+KRAP,northamerica,44.05,-103.05,"Rapid City, SD",Rapid City, SD
+KRBL,northamerica,40.15,-122.25,"Red Bluff, CA",Red Bluff, CA
+KRDD,northamerica,40.5167,-122.3,"Redding, CA",Redding, CA
+KRDG,northamerica,40.3667,-75.9667,"Reading, PA",Reading, PA
+KRDU,northamerica,35.8667,-78.7833,"Raleigh/durham, NC",Raleigh/durham, NC
+KRFD,northamerica,42.2,-89.1,"Rockford, IL",Rockford, IL
+KRIC,northamerica,37.5167,-77.3167,"Richmond, VA",Richmond, VA
+KRIV,northamerica,33.8667,-117.267,"Riverside/march, CA",Riverside/march, CA
+KRKS,northamerica,41.5947,-109.053,"Rock Springs Ap, WY",Rock Springs Ap, WY
+KRME,northamerica,43.234,-75.407,"Griffiss Airpark, United states",Griffiss Airpark, United states
+KRNM,northamerica,33.0333,-116.917,"Ramona, CA",Ramona, CA
+KRNO,northamerica,39.4833,-119.767,"Reno, NV",Reno, NV
+KROA,northamerica,37.3167,-79.9667,"Roanoke, VA",Roanoke, VA
+KROC,northamerica,43.1167,-77.6833,"Rochester, NY",Rochester, NY
+KROW,northamerica,33.3,-104.5,"Roswell, NM",Roswell, NM
+KRST,northamerica,43.9,-92.5,"Rochester, MN",Rochester, MN
+KRWF,northamerica,44.55,-95.0833,"Redwood Fall, MN",Redwood Fall, MN
+KRWI,northamerica,35.85,-77.9,"Rocky Mount, NC",Rocky Mount, NC
+KSAC,northamerica,38.5,-121.5,"Sacramento, CA",Sacramento, CA
+KSAN,northamerica,32.7333,-117.183,"San Diego, CA",San Diego, CA
+KSAT,northamerica,29.5333,-98.4667,"San Antonio, TX",San Antonio, TX
+KSAV,northamerica,32.1167,-81.2,"Savannah, GA",Savannah, GA
+KSAW,northamerica,46.35,-87.4,"Gwinn/sawyer, MI",Gwinn/sawyer, MI
+KSBA,northamerica,34.4333,-119.85,"Santa Barbara, CA",Santa Barbara, CA
+KSBN,northamerica,41.7,-86.3167,"South Bend, IN",South Bend, IN
+KSBY,northamerica,38.3333,-75.5,"Salisbury, MD",Salisbury, MD
+KSCK,northamerica,37.8833,-121.217,"Stockton, CA",Stockton, CA
+KSDF,northamerica,38.1833,-85.7333,"Louisville, KY",Louisville, KY
+KSEA,northamerica,47.45,-122.317,"Seattle, WA",Seattle, WA
+KSEG,northamerica,40.8167,-76.8667,"Selinsgrove, PA",Selinsgrove, PA
+KSEP,northamerica,32.2167,-98.1667,"Stephenville, TX",Stephenville, TX
+KSET,northamerica,38.9333,-90.4333,"St. Charles, MO",St. Charles, MO
+KSFO,northamerica,37.6167,-122.367,"San Francisco, CA",San Francisco, CA
+KSGF,northamerica,37.2333,-93.3833,"Springfield, MO",Springfield, MO
+KSGR,northamerica,29.622,-95.656,"Suger Land Rgnl, United states",Suger Land Rgnl, United states
+KSHR,northamerica,44.7667,-106.967,"Sheridan, WY",Sheridan, WY
+KSHV,northamerica,32.45,-93.8333,"Shreveport, LA",Shreveport, LA
+KSJC,northamerica,37.3667,-121.917,"San Jose, CA",San Jose, CA
+KSJT,northamerica,31.3667,-100.5,"San Angelo, TX",San Angelo, TX
+KSLC,northamerica,40.7833,-111.967,"Salt Lake City, UT",Salt Lake City, UT
+KSLE,northamerica,44.9,-123,"Salem, OR",Salem, OR
+KSLN,northamerica,38.7833,-97.65,"Salina, KS",Salina, KS
+KSMF,northamerica,38.7,-121.6,"Sacramento/metro, CA",Sacramento/metro, CA
+KSMP,northamerica,47.277,-121.337,"Stampede Pass, United states",Stampede Pass, United states
+KSMX,northamerica,34.9,-120.45,"Santa Maria, CA",Santa Maria, CA
+KSNK,northamerica,32.7,-100.95,"Snyder/winston, TX",Snyder/winston, TX
+KSNS,northamerica,36.6667,-121.6,"Salinas, CA",Salinas, CA
+KSNY,northamerica,41.1,-102.983,"Sidney, NE",Sidney, NE
+KSOA,northamerica,30.586,-100.649,"Sonora Muni, United states",Sonora Muni, United states
+KSPI,northamerica,39.85,-89.6833,"Springfield, IL",Springfield, IL
+KSPS,northamerica,33.9833,-98.5,"Wichita Fall, TX",Wichita Fall, TX
+KSPW,northamerica,43.1667,-95.2167,"Spencer, IA",Spencer, IA
+KSRQ,northamerica,27.4,-82.5667,"Sarasota/bradent, FL",Sarasota/bradent, FL
+KSSF,northamerica,29.3333,-98.4667,"S Antonio/stinsn, TX",S Antonio/stinsn, TX
+KSSM,northamerica,46.47,-84.37,"Sault Ste Marie, Mi, United States",Sault Ste Marie,MI
+KSTC,northamerica,45.55,-94.05,"St. Cloud, MN",St. Cloud, MN
+KSTJ,northamerica,39.7667,-94.9167,"St. Joseph, MO",St. Joseph, MO
+KSTL,northamerica,38.75,-90.3667,"St. Louis, MO",St. Louis, MO
+KSTS,northamerica,38.5,-122.817,"Santa Rosa, CA",Santa Rosa, CA
+KSUX,northamerica,42.3833,-96.3833,"Sioux City, IA",Sioux City, IA
+KSWO,northamerica,36.1667,-97.0833,"Stillwater, OK",Stillwater, OK
+KSWW,northamerica,32.4667,-100.467,"Sweetwater, TX",Sweetwater, TX
+KSYR,northamerica,43.1167,-76.1,"Syracuse, NY",Syracuse, NY
+KTHV,northamerica,39.9167,-76.8833,"York, PA",York, PA
+KTLH,northamerica,30.4,-84.35,"Tallahassee, FL",Tallahassee, FL
+KTOL,northamerica,41.5833,-83.8,"Toledo, OH",Toledo, OH
+KTOP,northamerica,39.0667,-95.6333,"Topeka, KS",Topeka, KS
+KTPA,northamerica,27.9667,-82.5333,"Tampa, FL",Tampa, FL
+KTRI,northamerica,36.4833,-82.4,"Bristol, TN",Bristol, TN
+KTRK,northamerica,39.32,-120.139,"Truckee-tahoe, United states",Truckee-tahoe, United states
+KTTN,northamerica,40.2833,-74.8167,"Trenton, NJ",Trenton, NJ
+KTUL,northamerica,36.2,-95.8833,"Tulsa, OK",Tulsa, OK
+KTUS,northamerica,32.1333,-110.95,"Tucson, AZ",Tucson, AZ
+KTVR,northamerica,32.35,-91.0333,"Tallulah/vicksbu, LA",Tallulah/vicksbu, LA
+KTYR,northamerica,32.3667,-95.4,"Tyler, TX",Tyler, TX
+KTYS,northamerica,35.8167,-83.9833,"Knoxville, TN",Knoxville, TN
+KUIL,northamerica,47.9333,-124.55,"Quillayute, WA",Quillayute, WA
+KUIN,northamerica,39.95,-91.2,"Quincy Muni/bald, IL",Quincy Muni/bald, IL
+KVCB,northamerica,38.3833,-121.95,"Vacaville, CA",Vacaville, CA
+KVCT,northamerica,28.8667,-96.9333,"Victoria, TX",Victoria, TX
+KVCV,northamerica,34.583,-117.383,"S Calif Logistics, United states",S Calif Logistics,CA
+KVIS,northamerica,36.3135,-119.388,"Visalia Airport, CA",Visalia Airport, CA
+KVLD,northamerica,30.7667,-83.2667,"Valdosta Regiona, GA",Valdosta Regiona, GA
+KVPZ,northamerica,41.45,-87,"Valparaiso, IN",Valparaiso, IN
+KVTN,northamerica,42.8667,-100.55,"Valentine, NE",Valentine, NE
+KVYS,northamerica,41.35,-89.15,"Peru, IL",Peru, IL
+KWLD,northamerica,37.1667,-97.0333,"Winfield/arkansa, KS",Winfield/arkansa, KS
+KWMC,northamerica,40.9,-117.8,"Winnemucca, NV",Winnemucca, NV
+KXWA,northamerica,48.254,-103.747,"Williston Aprt, ND",Williston Aprt, ND
+KYKM,northamerica,46.5667,-120.533,"Yakima, WA",Yakima, WA
+KYNG,northamerica,41.25,-80.6667,"Youngstown, OH",Youngstown, OH
+KYUM,northamerica,32.667,-114.6,"Yuma Intl Airport, United states",Yuma Intl Airport, United states
+MMCS,northamerica,31.633,-106.417,"Abraham Gonzalez In, Mexico",Abraham Gonzalez In, Mexico
+MMCU,northamerica,28.7,-105.967,"General R Fierro Vi, Mexico",General R Fierro Vi, Mexico
+MMGL,northamerica,20.517,-103.3,"Don Miguel Y Hidalg, Mexico",Don Miguel Y Hidalg, Mexico
+MMLO,northamerica,20.983,-101.483,"De Guanajuato Intl, Mexico",De Guanajuato Intl, Mexico
+MMMD,northamerica,20.983,-89.65,"Aerop.internacional, Mexico",Aerop.internacional, Mexico
+MMMX,northamerica,19.433,-99.067,"Mexico City, MX",Mexico City, MX
+MMMY,northamerica,25.7785,-100.107,"Monterrey, NL",Monterrey,Mexico
+MMPB,northamerica,19.05,-98.167,"Puebla, Mexico",Puebla, Mexico
+MMTJ,northamerica,32.533,-116.967,"General Abelardo L, Mexico",General Abelardo L, Mexico
+PAFA,northamerica,64.8,-147.883,"Fairbanks, AK",Fairbanks, AK
+PANC,northamerica,61.1667,-150.017,"Anchorage Intl, AK",Anchorage Intl, AK

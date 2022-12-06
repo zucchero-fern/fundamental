@@ -1,0 +1,550 @@
+Station,Region,Latitude,Longitude,Name,City,Country
+BIAR,europe,65.683,-18.083,"Akureyri, Iceland",Akureyri, Iceland
+BIHN,europe,64.3,-15.217,"Akurnes, Iceland",Akurnes, Iceland
+BIRK,europe,64.132,-21.933,"Reykjavik, Iceland",Reykjavik, Iceland
+DAAG,europe,36.683,3.217,"Dar-el-beida, Algeria",Dar-el-beida, Algeria
+DAAS,europe,36.183,5.25,"Setif, Algeria",Setif, Algeria
+DAAY,europe,33.583,-0.283,"Mecheria, Algeria",Mecheria, Algeria
+DABB,europe,36.833,7.817,"Annaba, Algeria",Annaba, Algeria
+DABC,europe,36.283,6.617,"Constantine, Algeria",Constantine, Algeria
+DABT,europe,35.75,6.317,"Batna, Algeria",Batna, Algeria
+DAOO,europe,35.633,-0.6,"Oran-senia, Algeria",Oran-senia, Algeria
+DAOR,europe,31.5,-2.25,"Bechar, Algeria",Bechar, Algeria
+DAUB,europe,34.8,5.733,"Biskra, Algeria",Biskra, Algeria
+DAUG,europe,32.4,3.8,"Ghardaia, Algeria",Ghardaia, Algeria
+DAUO,europe,33.5,6.783,"El-oued, Algeria",El-oued, Algeria
+DTKA,europe,36.95,8.75,"Tabarka, Tunisia",Tabarka, Tunisia
+DTTA,europe,36.833,10.233,"Tunis-carthage, Tunisia",Tunis-carthage, Tunisia
+DTTB,europe,37.25,9.8,"Bizerte, Tunisia",Bizerte, Tunisia
+DTTD,europe,32.317,10.4,"Remada, Tunisia",Remada, Tunisia
+DTTF,europe,34.417,8.817,"Gafsa, Tunisia",Gafsa, Tunisia
+DTTG,europe,33.883,10.1,"Gabes, Tunisia",Gabes, Tunisia
+DTTJ,europe,33.867,10.767,"Djerba Mellita, Tunisia",Djerba Mellita, Tunisia
+DTTX,europe,34.717,10.683,"Sfax El-maou, Tunisia",Sfax El-maou, Tunisia
+DTTZ,europe,33.917,8.167,"Tozeur, Tunisia",Tozeur, Tunisia
+EBAW,europe,51.2,4.467,"Antwerpen/deurne, Belgium",Antwerpen/deurne, Belgium
+EBBE,europe,50.75,4.767,"Beauvechain, Belgium",Beauvechain, Belgium
+EBBL,europe,51.167,5.467,"Kleine Brogel, Belgium",Kleine Brogel, Belgium
+EBBR,europe,50.9,4.533,"Bruxelles National, Belgium",Bruxelles National, Belgium
+EBCI,europe,50.467,4.45,"Charleroi/gosselies, Belgium",Charleroi/gosselies, Belgium
+EBCV,europe,50.567,3.833,"Chievres, Belgium",Chievres, Belgium
+EBFN,europe,51.083,2.65,"Koksijde, Belgium",Koksijde, Belgium
+EBFS,europe,50.233,4.65,"Florennes, Belgium",Florennes, Belgium
+EBKT,europe,50.9,3.117,"Beitem, Belgium",Beitem, Belgium
+EBLG,europe,50.65,5.45,"Bierset, Belgium",Bierset, Belgium
+EBOS,europe,51.2,2.867,"Oostende (airport), Belgium",Oostende (airport), Belgium
+EBSP,europe,50.483,5.917,"Spa/la Sauveniere, Belgium",Spa/la Sauveniere, Belgium
+EBSU,europe,50.033,5.4,"St-hubert, Belgium",St-hubert, Belgium
+EBSZ,europe,50.933,3.65,"Semmerzake (bafb), Belgium",Semmerzake (bafb), Belgium
+EDBM,europe,52.067,11.617,"Magdeburg, Germany",Magdeburg, Germany
+EDBP,europe,53.65,11.383,"Schwerin, Germany",Schwerin, Germany
+EDCA,europe,54.1,13.4,"Greifswald, Germany",Greifswald, Germany
+EDDB,europe,52.383,13.517,"Berlin/schonefeld, Germany",Berlin/schonefeld, Germany
+EDDC,europe,51.133,13.783,"Dresden/klotzsche, Germany",Dresden/klotzsche, Germany
+EDDE,europe,50.983,10.967,"Erfurt/binderslebn, Germany",Erfurt/binderslebn, Germany
+EDDF,europe,50.05,8.6,"Frankfurt Main Arpt, Germany",Frankfurt Main Arpt, Germany
+EDDG,europe,52.133,7.7,"Munster/osnabruck, Germany",Munster/osnabruck, Germany
+EDDH,europe,53.633,10,"Hamburg/fuhlsbuttel, Germany",Hamburg/fuhlsbuttel, Germany
+EDDI,europe,52.467,13.4,"Berlin/tempelhof, Germany",Berlin/tempelhof, Germany
+EDDK,europe,50.867,7.167,"Koln/bonn (civ/mil), Germany",Koln/bonn (civ/mil), Germany
+EDDL,europe,51.283,6.783,"Dusseldorf, Germany",Dusseldorf, Germany
+EDDM,europe,48.354,11.786,"Munich/riem, Germany",Munich/riem, Germany
+EDDN,europe,49.5,11.083,"Nurnberg, Germany",Nurnberg, Germany
+EDDP,europe,51.417,12.233,"Leipzig/schkeuditz, Germany",Leipzig/schkeuditz, Germany
+EDDS,europe,48.683,9.217,"Stuttgart/echterdi, Germany",Stuttgart/echterdi, Germany
+EDDT,europe,52.567,13.317,"Berlin/tegel (fafb), Germany",Berlin/tegel (fafb), Germany
+EDDV,europe,52.467,9.7,"Hannover, Germany",Hannover, Germany
+EDDW,europe,53.05,8.8,"Bremen, Germany",Bremen, Germany
+EDFH,europe,49.95,7.267,"Hahn, Germany",Hahn, Germany
+EDFM,europe,49.517,8.55,"Mannheim, Germany",Mannheim, Germany
+EDFW,europe,49.767,9.967,"Wuerzburg, Germany",Wuerzburg, Germany
+EDLP,europe,51.617,8.617,"Paderborn/lippstadt, Germany",Paderborn/lippstadt, Germany
+EDLW,europe,51.517,7.617,"Dortmund/wickede, Germany",Dortmund/wickede, Germany
+EDMA,europe,48.433,10.933,"Augsberg/mulhausen, Germany",Augsberg/mulhausen, Germany
+EDMS,europe,49.117,13.133,"Grosser Arber, Germany",Grosser Arber, Germany
+EDMV,europe,48.55,13.35,"Furstenzell, Germany",Furstenzell, Germany
+EDNR,europe,49.05,12.1,"Regensburg, Germany",Regensburg, Germany
+EDOP,europe,53.417,11.783,"Schwerin Parchim, Germany",Schwerin Parchim, Germany
+EDQM,europe,50.317,11.883,"Hof, Germany",Hof, Germany
+EDRT,europe,49.75,6.667,"Trier-petrisberg, Germany",Trier-petrisberg, Germany
+EDTL,europe,48.367,7.833,"Lahr, Germany",Lahr, Germany
+EDTY,europe,49.217,9.517,"Oehringen, Germany",Oehringen, Germany
+EDTZ,europe,47.683,9.183,"Konstanz, Germany",Konstanz, Germany
+EDVK,europe,51.4,9.383,"Kassel/calden, Germany",Kassel/calden, Germany
+EDWE,europe,53.383,7.233,"Emden-flugplatz, Germany",Emden-flugplatz, Germany
+EETN,europe,59.383,24.583,"Tallin-harku, Estonia",Tallin-harku, Estonia
+EETU,europe,58.3,26.733,"Tartu-toravere, Estonia",Tartu-toravere, Estonia
+EFHA,europe,61.85,24.8,"Halli, Finland",Halli, Finland
+EFHK,europe,60.317,24.967,"Helsinki-vantaa, Finland",Helsinki-vantaa, Finland
+EFIV,europe,68.617,27.417,"Ivalo, Finland",Ivalo, Finland
+EFJO,europe,62.667,29.633,"Joensuu, Finland",Joensuu, Finland
+EFJY,europe,62.4,25.683,"Jyvaskyla, Finland",Jyvaskyla, Finland
+EFKA,europe,63.1,23.033,"Kauhava, Finland",Kauhava, Finland
+EFKI,europe,64.283,27.683,"Kajaani, Finland",Kajaani, Finland
+EFKS,europe,65.967,29.183,"Kuusamo, Finland",Kuusamo, Finland
+EFKU,europe,63.017,27.8,"Kuopio, Finland",Kuopio, Finland
+EFLP,europe,61.05,28.2,"Lappeenranta, Finland",Lappeenranta, Finland
+EFOU,europe,64.933,25.367,"Oulu, Finland",Oulu, Finland
+EFPO,europe,61.467,21.8,"Pori, Finland",Pori, Finland
+EFRO,europe,66.567,25.833,"Rovaniemi, Finland",Rovaniemi, Finland
+EFSO,europe,67.367,26.65,"Sodankyla, Finland",Sodankyla, Finland
+EFTP,europe,61.518,23.754,"Tampere/pirkkala, Finland",Tampere/pirkkala, Finland
+EFTU,europe,60.517,22.267,"Turku, Finland",Turku, Finland
+EFUT,europe,60.9,26.933,"Utti, Finland",Utti, Finland
+EGAA,europe,54.65,-6.217,"Belfast/aldergrove, United kingdom",Belfast/aldergrove, United kingdom
+EGBB,europe,52.45,-1.733,"Birmingham Airport, United kingdom",Birmingham Airport, United kingdom
+EGBE,europe,52.367,-1.467,"Coventry, United kingdom",Coventry, United kingdom
+EGBN,europe,53.005,-1.25,"Nottingham Watnall, United Kingdom",Nottingham Watnall, United Kingdom
+EGCC,europe,53.35,-2.283,"Manchester Airport, United kingdom",Manchester Airport, United kingdom
+EGDL,europe,51.5,-1.983,"Lyneham, United kingdom",Lyneham, United kingdom
+EGDM,europe,51.167,-1.75,"Boscombe Down, United kingdom",Boscombe Down, United kingdom
+EGDR,europe,50.083,-5.25,"Culdrose, United kingdom",Culdrose, United kingdom
+EGDY,europe,51,-2.633,"Yeovilton, United kingdom",Yeovilton, United kingdom
+EGFF,europe,51.4,-3.35,"Cardiff-wales Arpt, United kingdom",Cardiff-wales Arpt, United kingdom
+EGGP,europe,53.333,-2.85,"Liverpool, United kingdom",Liverpool, United kingdom
+EGHH,europe,50.783,-1.833,"Bournemouth/hurn, United kingdom",Bournemouth/hurn, United kingdom
+EGHI,europe,50.9,-1.4,"Southampton Wx Cntr, United kingdom",Southampton Wx Cntr, United kingdom
+EGKA,europe,50.833,-0.283,"Shoreham Airport, United kingdom",Shoreham Airport, United kingdom
+EGKK,europe,51.15,-0.183,"London/gatwick Arpt, United kingdom",London/gatwick Arpt, United kingdom
+EGLL,europe,51.483,-0.45,"London/heathrow Air, United kingdom",London/heathrow Air, United kingdom
+EGMH,europe,51.35,1.333,"Manston, United kingdom",Manston, United kingdom
+EGNB,europe,54.1,-0.167,"Bridlington Mrsc, United Kingdom",Bridlington Mrsc, United Kingdom
+EGNH,europe,53.767,-3.033,"Blackpool, United kingdom",Blackpool, United kingdom
+EGNM,europe,53.867,-1.65,"Leeds Bradford, United kingdom",Leeds Bradford, United kingdom
+EGNS,europe,54.083,-4.633,"Isle Of Man/ronalds, Man  isle of",Isle Of Man/ronalds, Man  isle of
+EGNT,europe,55.033,-1.683,"Newcastle, United kingdom",Newcastle, United kingdom
+EGOS,europe,52.8,-2.667,"Shawbury, United kingdom",Shawbury, United kingdom
+EGOV,europe,53.25,-4.533,"Valley, United kingdom",Valley, United kingdom
+EGPA,europe,58.95,-2.9,"Kirkwall Airport, United kingdom",Kirkwall Airport, United kingdom
+EGPB,europe,59.883,-1.3,"Sumburgh (cape), United kingdom",Sumburgh (cape), United kingdom
+EGPC,europe,58.45,-3.083,"Wick, United kingdom",Wick, United kingdom
+EGPD,europe,57.2,-2.217,"Aberdeen/dyce Airpo, United kingdom",Aberdeen/dyce Airpo, United kingdom
+EGPF,europe,55.867,-4.433,"Glasgow Airport, United kingdom",Glasgow Airport, United kingdom
+EGPH,europe,55.95,-3.35,"Edinburgh Airport, United kingdom",Edinburgh Airport, United kingdom
+EGPK,europe,55.5,-4.583,"Prestwick(civ/navy), United kingdom",Prestwick(civ/navy), United kingdom
+EGPL,europe,57.467,-7.367,"Benbecula Island, United kingdom",Benbecula Island, United kingdom
+EGPO,europe,58.217,-6.317,"Stornoway, United kingdom",Stornoway, United kingdom
+EGPU,europe,56.5,-6.883,"Tiree, United kingdom",Tiree, United kingdom
+EGQK,europe,57.65,-3.567,"Kinloss, United kingdom",Kinloss, United kingdom
+EGQL,europe,56.4,-2.867,"Leuchars, United kingdom",Leuchars, United kingdom
+EGQS,europe,57.717,-3.317,"Lossiemouth, United kingdom",Lossiemouth, United kingdom
+EGSL,europe,51.896,0.451,"Andrewsfield, United Kingdom",Andrewsfield, United Kingdom
+EGSS,europe,51.883,0.233,"Stansted Airport, United kingdom",Stansted Airport, United kingdom
+EGTE,europe,50.733,-3.4,"Exeter Airport, United kingdom",Exeter Airport, United kingdom
+EGUH,europe,51.617,0.767,"High Wicombe(usaf), United kingdom",High Wicombe(usaf), United kingdom
+EGUW,europe,52.117,0.967,"Wattisham, United kingdom",Wattisham, United kingdom
+EGVN,europe,51.75,-1.583,"Brize Norton, United kingdom",Brize Norton, United kingdom
+EGXC,europe,53.083,-0.167,"Coningsby, United kingdom",Coningsby, United kingdom
+EGXE,europe,54.3,-1.533,"Leeming, United kingdom",Leeming, United kingdom
+EGXP,europe,53.3,-0.55,"Scampton, United kingdom",Scampton, United kingdom
+EGXT,europe,52.617,-0.467,"Wittering, United kingdom",Wittering, United kingdom
+EGXV,europe,53.883,-0.433,"Leconfield, United kingdom",Leconfield, United kingdom
+EGXW,europe,53.167,-0.517,"Waddington, United kingdom",Waddington, United kingdom
+EGYM,europe,52.65,0.567,"Marham, United kingdom",Marham, United kingdom
+EGYW,europe,53.083,0.267,"Wainfleet, United kingdom",Wainfleet, United kingdom
+EHAM,europe,52.3,4.767,"Amsterdam Ap Schiph, Netherlands",Amsterdam Ap Schiph, Netherlands
+EHBK,europe,50.9,5.75,"Maastricht Aachen Ap, Netherlands",Maastricht Aachen Ap, Netherlands
+EHDB,europe,52.1,5.183,"De Bilt, Netherlands",De Bilt, Netherlands
+EHDL,europe,52.05,5.867,"Deelen, Netherlands",Deelen, Netherlands
+EHEH,europe,51.45,5.417,"Eindhoven, Netherlands",Eindhoven, Netherlands
+EHGG,europe,53.133,6.583,"Groningen Ap Eelde, Netherlands",Groningen Ap Eelde, Netherlands
+EHGR,europe,51.567,4.933,"Gilze Rijen, Netherlands",Gilze Rijen, Netherlands
+EHKD,europe,52.917,4.783,"De Kooij, Netherlands",De Kooij, Netherlands
+EHLW,europe,53.217,5.767,"Leeuwarden, Netherlands",Leeuwarden, Netherlands
+EHRD,europe,51.95,4.45,"Rotterdam The Hague, Netherlands",Rotterdam The Hague, Netherlands
+EHTW,europe,52.267,6.9,"Twenthe, Netherlands",Twenthe, Netherlands
+EHVB,europe,52.167,4.433,"Valkenburg, Netherlands",Valkenburg, Netherlands
+EHVK,europe,51.65,5.7,"Volkel, Netherlands",Volkel, Netherlands
+EICK,europe,51.85,-8.483,"Cork Airport, Ireland",Cork Airport, Ireland
+EIDW,europe,53.433,-6.25,"Dublin Airport, Ireland",Dublin Airport, Ireland
+EINN,europe,52.7,-8.917,"Shannon Airport, Ireland",Shannon Airport, Ireland
+EKAH,europe,56.317,10.633,"Aarhus Lufthavn, Denmark",Aarhus Lufthavn, Denmark
+EKBI,europe,55.733,9.167,"Billund, Denmark",Billund, Denmark
+EKCH,europe,55.617,12.65,"Koebenhavn/kastrup, Denmark",Koebenhavn/kastrup, Denmark
+EKEB,europe,55.533,8.567,"Esbjerg, Denmark",Esbjerg, Denmark
+EKKA,europe,56.3,9.117,"Karup, Denmark",Karup, Denmark
+EKMB,europe,54.7,11.45,"Maribo, Denmark",Maribo, Denmark
+EKOD,europe,55.483,10.333,"Odense/beldringe, Denmark",Odense/beldringe, Denmark
+EKRK,europe,55.583,12.133,"Copenhagen/roskilde, Denmark",Copenhagen/roskilde, Denmark
+EKRN,europe,55.067,14.75,"Roenne, Denmark",Roenne, Denmark
+EKSN,europe,57.5,10.217,"Sindal, Denmark",Sindal, Denmark
+EKSP,europe,55.233,9.267,"Skrydstrup, Denmark",Skrydstrup, Denmark
+EKYT,europe,57.1,9.85,"Flyvestation Aalbor, Denmark",Flyvestation Aalbor, Denmark
+ELLX,europe,49.617,6.217,"Luxembourg/luxembou, Luxembourg",Luxembourg/luxembou, Luxembourg
+ENAL,europe,62.567,6.117,"Alesund/vigra, Norway",Alesund/vigra, Norway
+ENAN,europe,69.3,16.133,"Andoya, Norway",Andoya, Norway
+ENAT,europe,69.983,23.367,"Alta Lufthavn, Norway",Alta Lufthavn, Norway
+ENBO,europe,67.267,14.367,"Bodo Vi, Norway",Bodo Vi, Norway
+ENBR,europe,60.283,5.233,"Bergen/flesland, Norway",Bergen/flesland, Norway
+ENCN,europe,58.2,8.083,"Kristiansand/kjevik, Norway",Kristiansand/kjevik, Norway
+ENDU,europe,69.067,18.533,"Bardufoss, Norway",Bardufoss, Norway
+ENEV,europe,68.483,16.683,"Evenes Ap, Norway",Evenes Ap, Norway
+ENGM,europe,60.2,11.083,"Oslo/gardermoen, Norway",Oslo/gardermoen, Norway
+ENKB,europe,63.1,7.8,"Kristiansund Ap, Norway",Kristiansund Ap, Norway
+ENKR,europe,69.733,29.9,"Kirkenes, Norway",Kirkenes, Norway
+ENML,europe,62.733,7.25,"Molde Ap, Norway",Molde Ap, Norway
+ENOL,europe,63.7,9.6,"Orland Iii, Norway",Orland Iii, Norway
+ENRY,europe,59.383,10.783,"Rygge, Norway",Rygge, Norway
+ENTC,europe,69.683,18.917,"Tromso/langnes, Norway",Tromso/langnes, Norway
+ENVA,europe,63.467,10.933,"Trondheim/vernes, Norway",Trondheim/vernes, Norway
+ENZV,europe,58.883,5.633,"Stavanger/sola, Norway",Stavanger/sola, Norway
+EPGD,europe,54.383,18.467,"Gdansk-rebiechowo, Poland",Gdansk-rebiechowo, Poland
+EPKA,europe,50.817,20.7,"Kielce, Poland",Kielce, Poland
+EPKK,europe,50.083,19.8,"Krakow-balice, Poland",Krakow-balice, Poland
+EPKM,europe,50.233,19.033,"Katowice, Poland",Katowice, Poland
+EPKO,europe,54.2,16.149,"Koszalin, Poland",Koszalin, Poland
+EPKT,europe,50.233,19.033,"Katowice, Poland",Katowice, Poland
+EPLL,europe,51.717,19.4,"Lublinek, Poland",Lublinek, Poland
+EPLR,europe,51.217,22.4,"Lublin Radawiec, Poland",Lublin Radawiec, Poland
+EPPO,europe,52.417,16.85,"Poznan, Poland",Poznan, Poland
+EPRZ,europe,50.1,22.05,"Rzeszow-jasionka, Poland",Rzeszow-jasionka, Poland
+EPSC,europe,53.4,14.617,"Szczecin, Poland",Szczecin, Poland
+EPSK,europe,54.467,17.017,"Slupsk            &, Poland",Slupsk            &, Poland
+EPTO,europe,53.033,18.583,"Torun, Poland",Torun, Poland
+EPWA,europe,52.167,20.967,"Warszawa-okecie, Poland",Warszawa-okecie, Poland
+EPWR,europe,51.1,16.883,"Wroclaw Ii, Poland",Wroclaw Ii, Poland
+EPZG,europe,52.133,15.783,"Zielona Gora-babimos, Poland",Zielona Gora-babimos, Poland
+ESCF,europe,58.4,15.533,"Linkoping/malmslatt, Sweden",Linkoping/malmslatt, Sweden
+ESGJ,europe,57.75,14.083,"Jonkoping/axamo, Sweden",Jonkoping/axamo, Sweden
+ESGP,europe,57.783,11.883,"Goteborg/save, Sweden",Goteborg/save, Sweden
+ESMQ,europe,56.733,16.3,"Kalmar, Sweden",Kalmar, Sweden
+ESNK,europe,63.05,17.767,"Kramfors (swe-afb), Sweden",Kramfors (swe-afb), Sweden
+ESNQ,europe,67.817,20.333,"Kiruna, Sweden",Kiruna, Sweden
+ESNU,europe,63.8,20.283,"Umea, Sweden",Umea, Sweden
+ESNZ,europe,63.2,14.5,"Ostersund Froson, Sweden",Ostersund Froson, Sweden
+ESOK,europe,59.45,13.467,"Karlstad Flygplats, Sweden",Karlstad Flygplats, Sweden
+ESOW,europe,59.583,16.633,"Vasteras/hasslo Afb, Sweden",Vasteras/hasslo Afb, Sweden
+ETAD,europe,49.983,6.7,"Spangdahlem, Germany",Spangdahlem, Germany
+ETAR,europe,49.433,7.6,"Ramstein, Germany",Ramstein, Germany
+ETBW,europe,49.667,12.183,"Weiden, Germany",Weiden, Germany
+ETMN,europe,53.767,8.667,"Nordholz, Germany",Nordholz, Germany
+ETNN,europe,50.833,6.667,"Noervenich, Germany",Noervenich, Germany
+ETNS,europe,54.467,9.517,"Schleswig-jagel, Germany",Schleswig-jagel, Germany
+ETNT,europe,53.55,7.667,"Wittmundhaven, Germany",Wittmundhaven, Germany
+ETSA,europe,48.067,10.9,"Landsberg, Germany",Landsberg, Germany
+ETSB,europe,50.167,7.067,"Buechel, Germany",Buechel, Germany
+ETSN,europe,48.717,11.217,"Neuburg/donau, Germany",Neuburg/donau, Germany
+ETUO,europe,51.933,8.317,"Guetersloh, Germany",Guetersloh, Germany
+EVLA,europe,56.483,21.017,"Liepaja, Latvia",Liepaja, Latvia
+EYVI,europe,54.633,25.283,"Vilnius, Lithuania",Vilnius, Lithuania
+GEML,europe,35.283,-2.95,"Melilla, Spain",Melilla, Spain
+GMFF,europe,33.933,-4.983,"Fes-sais, Morocco",Fes-sais, Morocco
+GMFK,europe,31.933,-4.4,"Errachidia, Morocco",Errachidia, Morocco
+GMFO,europe,34.783,-1.933,"Oujda, Morocco",Oujda, Morocco
+GMME,europe,34.05,-6.767,"Rabat-sale, Morocco",Rabat-sale, Morocco
+GMMN,europe,33.367,-7.583,"Nouasseur, Morocco",Nouasseur, Morocco
+GMMX,europe,31.617,-8.032,"Marrakech, Morocco",Marrakech, Morocco
+GMMZ,europe,30.933,-6.9,"Ouarzazate, Morocco",Ouarzazate, Morocco
+GMTA,europe,35.183,-3.85,"Al Hoceima, Morocco",Al Hoceima, Morocco
+GMTN,europe,35.583,-5.333,"Tetouan, Morocco",Tetouan, Morocco
+GMTT,europe,35.733,-5.9,"Tanger (aerodrome), Morocco",Tanger (aerodrome), Morocco
+HEAX,europe,31.167,29.933,"Alexandria/nouzha, Egypt",Alexandria/nouzha, Egypt
+HECA,europe,30.1,31.4,"Cairo Airport, Egypt",Cairo Airport, Egypt
+HEMM,europe,31.333,27.217,"Mersa Matruh, Egypt",Mersa Matruh, Egypt
+HLLB,europe,32.1,20.267,"Benina, Libya",Benina, Libya
+HLLT,europe,32.7,13.083,"Tripoli Internation, Libya",Tripoli Internation, Libya
+LBBG,europe,42.483,27.483,"Burgas, Bulgaria",Burgas, Bulgaria
+LBPD,europe,42.133,24.75,"Plovdiv, Bulgaria",Plovdiv, Bulgaria
+LBSF,europe,42.65,23.383,"Sofia (observ.), Bulgaria",Sofia (observ.), Bulgaria
+LBWN,europe,43.2,27.917,"Varna, Bulgaria",Varna, Bulgaria
+LCLK,europe,34.883,33.633,"Larnaca Airport, Cyprus",Larnaca Airport, Cyprus
+LCPH,europe,34.717,32.482,"Paphos Airport, Cyprus",Paphos Airport, Cyprus
+LDRI,europe,45.217,14.583,"Rijeka/omisalj, Croatia",Rijeka/omisalj, Croatia
+LEAB,europe,38.95,-1.85,"Albacete/los Llanos, Spain",Albacete/los Llanos, Spain
+LEAL,europe,38.283,-0.55,"Alicante/el Altet, Spain",Alicante/el Altet, Spain
+LEAM,europe,36.85,-2.383,"Almeria/aeropuerto, Spain",Almeria/aeropuerto, Spain
+LEAS,europe,43.55,-6.033,"Asturias/aviles, Spain",Asturias/aviles, Spain
+LEBA,europe,37.85,-4.85,"Cordoba/aeropuerto, Spain",Cordoba/aeropuerto, Spain
+LEBB,europe,43.3,-2.9,"Bilbao/sondica, Spain",Bilbao/sondica, Spain
+LEBG,europe,42.35,-3.633,"Burgos/villafria, Spain",Burgos/villafria, Spain
+LEBL,europe,41.283,2.067,"Barcelona/aeropuert, Spain",Barcelona/aeropuert, Spain
+LEBZ,europe,38.883,-6.833,"Badajoz/talavera La, Spain",Badajoz/talavera La, Spain
+LECO,europe,43.3,-8.383,"La Coruna/alvedro, Spain",La Coruna/alvedro, Spain
+LEGE,europe,41.9,2.767,"Gerona/costa Brava, Spain",Gerona/costa Brava, Spain
+LEGR,europe,37.183,-3.783,"Granada/aeropuerto, Spain",Granada/aeropuerto, Spain
+LEJR,europe,36.75,-6.067,"Jerez De La Fronter, Spain",Jerez De La Fronter, Spain
+LELC,europe,37.783,-0.8,"Murcia/san Javier, Spain",Murcia/san Javier, Spain
+LELN,europe,42.583,-5.65,"Leon/virgen Del Cam, Spain",Leon/virgen Del Cam, Spain
+LELO,europe,42.45,-2.333,"Logrono/agoncillo, Spain",Logrono/agoncillo, Spain
+LEMD,europe,40.45,-3.55,"Madrid/barajas Rs, Spain",Madrid/barajas Rs, Spain
+LEMG,europe,36.667,-4.483,"Malaga/aeropuerto, Spain",Malaga/aeropuerto, Spain
+LEMO,europe,37.15,-5.617,"Moron De La Fronter, Spain",Moron De La Fronter, Spain
+LEOC,europe,38.983,-3.917,"Ciudad Real, Spain",Ciudad Real, Spain
+LEPA,europe,39.55,2.733,"Palma De Mallorca/s, Spain",Palma De Mallorca/s, Spain
+LEPP,europe,42.767,-1.633,"Pamplona/noain, Spain",Pamplona/noain, Spain
+LERI,europe,37.95,-1.233,"Murcia/alcantarilla, Spain",Murcia/alcantarilla, Spain
+LERL,europe,38.983,-3.917,"Ciudad Real, Spain",Ciudad Real, Spain
+LERS,europe,41.15,1.167,"Reus/aeropuerto, Spain",Reus/aeropuerto, Spain
+LERT,europe,36.65,-6.35,"Rota, Spain",Rota, Spain
+LESA,europe,40.95,-5.5,"Salamanca/matacan, Spain",Salamanca/matacan, Spain
+LESO,europe,43.35,-1.8,"San Sebastian/fuent, Spain",San Sebastian/fuent, Spain
+LEST,europe,42.9,-8.433,"Santiago/labacolla, Spain",Santiago/labacolla, Spain
+LEVC,europe,39.5,-0.467,"Valencia/aeropuerto, Spain",Valencia/aeropuerto, Spain
+LEVD,europe,41.717,-4.85,"Valladolid/villanub, Spain",Valladolid/villanub, Spain
+LEVS,europe,40.383,-3.783,"Madrid/cuatro Vient, Spain",Madrid/cuatro Vient, Spain
+LEVT,europe,42.883,-2.717,"Vitoria, Spain",Vitoria, Spain
+LEVX,europe,42.233,-8.633,"Vigo/peinador, Spain",Vigo/peinador, Spain
+LEXJ,europe,43.433,-3.817,"Santander/parayas, Spain",Santander/parayas, Spain
+LEZG,europe,41.667,-1,"Zaragoza/aeropuerto, Spain",Zaragoza/aeropuerto, Spain
+LEZL,europe,37.417,-5.9,"Sevilla/san Pablo, Spain",Sevilla/san Pablo, Spain
+LFBA,europe,44.183,0.6,"Agen, France",Agen, France
+LFBC,europe,44.533,-1.133,"Cazaux, France",Cazaux, France
+LFBD,europe,44.833,-0.683,"Bordeaux Merignac, France",Bordeaux Merignac, France
+LFBG,europe,45.667,-0.317,"Cognac, France",Cognac, France
+LFBI,europe,46.583,0.3,"Poitiers, France",Poitiers, France
+LFBL,europe,45.867,1.183,"Limoges, France",Limoges, France
+LFBM,europe,43.917,-0.5,"Mont-de-marsan, France",Mont-de-marsan, France
+LFBO,europe,43.633,1.367,"Toulouse Blagnac, France",Toulouse Blagnac, France
+LFBP,europe,43.383,-0.417,"Pau, France",Pau, France
+LFBT,europe,43.183,0,"Tarbes Ossun Lourdes, France",Tarbes Ossun Lourdes, France
+LFBZ,europe,43.467,-1.533,"Biarritz, France",Biarritz, France
+LFCC,europe,44.75,1.4,"Gourdon, France",Gourdon, France
+LFCG,europe,43,1.1,"Saint Girons, France",Saint Girons, France
+LFDN,europe,46.033,-1.417,"Chassiron, France",Chassiron, France
+LFKJ,europe,41.917,8.8,"Ajaccio, France",Ajaccio, France
+LFLA,europe,47.8,3.55,"Auxerre, France",Auxerre, France
+LFLB,europe,45.633,5.867,"Chambery/aix-les-ba, France",Chambery/aix-les-ba, France
+LFLC,europe,45.783,3.167,"Clermont-ferrand, France",Clermont-ferrand, France
+LFLD,europe,47.067,2.367,"Bourges, France",Bourges, France
+LFLL,europe,45.733,5.083,"Lyon-satolas, France",Lyon-satolas, France
+LFLM,europe,46.3,4.8,"Macon, France",Macon, France
+LFLS,europe,45.367,5.333,"Grenoble-st-geoirs, France",Grenoble-st-geoirs, France
+LFLV,europe,46.167,3.4,"Vichy, France",Vichy, France
+LFLX,europe,46.867,1.717,"Chateaurroux Deols, France",Chateaurroux Deols, France
+LFMH,europe,45.533,4.3,"St-etienne Boutheon, France",St-etienne Boutheon, France
+LFML,europe,43.45,5.233,"Marignane, France",Marignane, France
+LFMN,europe,43.65,7.2,"Nice, France",Nice, France
+LFMO,europe,44.133,4.833,"Orange, France",Orange, France
+LFMP,europe,42.733,2.867,"Perpignan, France",Perpignan, France
+LFMT,europe,43.583,3.967,"Montpellier, France",Montpellier, France
+LFOB,europe,49.467,2.117,"Beauvais, France",Beauvais, France
+LFOE,europe,49.017,1.217,"Evreux, France",Evreux, France
+LFOI,europe,50.133,1.833,"Abbeville, France",Abbeville, France
+LFOJ,europe,47.983,1.783,"Orleans, France",Orleans, France
+LFOP,europe,49.383,1.183,"Rouen, France",Rouen, France
+LFOR,europe,48.467,1.5,"Chartres, France",Chartres, France
+LFOT,europe,47.45,0.733,"Tours, France",Tours, France
+LFPG,europe,49.017,2.533,"Roissy, France",Roissy, France
+LFPM,europe,48.617,2.683,"Melun, France",Melun, France
+LFPO,europe,48.717,2.383,"Paris - Orly, France",Paris - Orly, France
+LFQB,europe,48.333,4.017,"Troyes Barberey, France",Troyes Barberey, France
+LFQG,europe,47,3.1,"Nevers, France",Nevers, France
+LFQQ,europe,50.567,3.1,"Lille Lesqui, France",Lille Lesqui, France
+LFRB,europe,48.45,-4.417,"Brest, France",Brest, France
+LFRD,europe,48.583,-2.067,"Dinard, France",Dinard, France
+LFRH,europe,47.767,-3.45,"L Orient Lann Bihou, France",L Orient Lann Bihou, France
+LFRK,europe,49.183,-0.45,"Caen Carpiquet, France",Caen Carpiquet, France
+LFRM,europe,47.933,0.2,"Le Mans, France",Le Mans, France
+LFRN,europe,48.067,-1.733,"Rennes, France",Rennes, France
+LFRS,europe,47.15,-1.6,"Nantes, France",Nantes, France
+LFSB,europe,47.6,7.517,"Bale-mulhouse, France",Bale-mulhouse, France
+LFSD,europe,47.267,5.083,"Dijon, France",Dijon, France
+LFSF,europe,49.083,6.133,"Metz/frescaty, France",Metz/frescaty, France
+LFSI,europe,48.633,4.9,"Saint-dizier, France",Saint-dizier, France
+LFSN,europe,48.683,6.217,"Nancy-essey, France",Nancy-essey, France
+LFSO,europe,48.583,5.967,"Nancy-ochey, France",Nancy-ochey, France
+LFSR,europe,49.3,4.033,"Reims-champagne Ab, France",Reims-champagne Ab, France
+LFST,europe,48.55,7.633,"Strasbourg-entzheim, France",Strasbourg-entzheim, France
+LFSX,europe,47.8,6.383,"Luxeuil, France",Luxeuil, France
+LGAD,europe,37.917,21.283,"Andravida (airport), Greece",Andravida (airport), Greece
+LGAL,europe,40.85,25.917,"Alexandroupoli /air, Greece",Alexandroupoli /air, Greece
+LGAT,europe,37.9,23.733,"Athinai Ap Helliniko, Greece",Athinai Ap Helliniko, Greece
+LGEL,europe,38.067,23.55,"Elefsis (airport), Greece",Elefsis (airport), Greece
+LGIR,europe,35.333,25.183,"Heraklion (airport), Greece",Heraklion (airport), Greece
+LGKC,europe,36.283,23.017,"Kythira, Greece",Kythira, Greece
+LGKR,europe,39.617,19.917,"Kerkyra (airport), Greece",Kerkyra (airport), Greece
+LGLM,europe,39.917,25.233,"Limnos (airport), Greece",Limnos (airport), Greece
+LGLR,europe,39.633,22.417,"Larissa (airport), Greece",Larissa (airport), Greece
+LGMT,europe,39.067,26.6,"Mytilini (airport), Greece",Mytilini (airport), Greece
+LGPZ,europe,38.617,20.767,"Aktion (airport), Greece",Aktion (airport), Greece
+LGRP,europe,36.4,28.083,"Rhodes (airport), Greece",Rhodes (airport), Greece
+LGSA,europe,35.483,24.117,"Souda (airport), Greece",Souda (airport), Greece
+LGSM,europe,37.7,26.917,"Samos (airport), Greece",Samos (airport), Greece
+LGSY,europe,38.967,24.483,"Skyros (airport), Greece",Skyros (airport), Greece
+LGTP,europe,37.533,22.4,"Tripolis (airport), Greece",Tripolis (airport), Greece
+LGTS,europe,40.517,22.967,"Thessaloniki /airpo, Greece",Thessaloniki /airpo, Greece
+LHBC,europe,46.683,21.167,"Bekescsaba, Hungary",Bekescsaba, Hungary
+LHBP,europe,47.433,19.267,"Budapest/ferihegy I, Hungary",Budapest/ferihegy I, Hungary
+LHDC,europe,47.483,21.6,"Debrecen, Hungary",Debrecen, Hungary
+LHKE,europe,46.917,19.75,"Kecskemet, Hungary",Kecskemet, Hungary
+LHNY,europe,47.967,21.883,"Nyiregyhaza/napkor, Hungary",Nyiregyhaza/napkor, Hungary
+LHOY,europe,46.183,19.017,"Baja, Hungary",Baja, Hungary
+LHPA,europe,47.2,17.5,"Papa, Hungary",Papa, Hungary
+LHPP,europe,46,18.233,"Pecs/pogany, Hungary",Pecs/pogany, Hungary
+LHPR,europe,47.717,17.683,"Gyor, Hungary",Gyor, Hungary
+LHSM,europe,46.683,17.15,"Balaton, Hungary",Balaton, Hungary
+LHSN,europe,47.117,20.233,"Szolnok, Hungary",Szolnok, Hungary
+LIBA,europe,41.533,15.717,"Amendola, Italy",Amendola, Italy
+LIBC,europe,39,17.067,"Crotone, Italy",Crotone, Italy
+LIBD,europe,41.133,16.75,"Bari/palese Macchie, Italy",Bari/palese Macchie, Italy
+LIBG,europe,40.517,17.4,"Grottaglie, Italy",Grottaglie, Italy
+LIBN,europe,40.233,18.15,"Lecce, Italy",Lecce, Italy
+LIBP,europe,42.433,14.2,"Pescara, Italy",Pescara, Italy
+LIBR,europe,40.65,17.95,"Brindisi, Italy",Brindisi, Italy
+LIBV,europe,40.767,16.933,"Gioia Del Colle, Italy",Gioia Del Colle, Italy
+LICA,europe,38.9,16.25,"Lamezia Terme, Italy",Lamezia Terme, Italy
+LICC,europe,37.467,15.05,"Catania/fontanaross, Italy",Catania/fontanaross, Italy
+LICJ,europe,38.183,13.1,"Palermo/punta Raisi, Italy",Palermo/punta Raisi, Italy
+LICR,europe,38.067,15.65,"Reggio Calabria, Italy",Reggio Calabria, Italy
+LICT,europe,37.917,12.5,"Trapani/birgi, Italy",Trapani/birgi, Italy
+LICZ,europe,37.4,14.917,"Catania/sigonella, Italy",Catania/sigonella, Italy
+LIEA,europe,40.633,8.283,"Alghero, Italy",Alghero, Italy
+LIEE,europe,39.25,9.067,"Cagliari/elmas, Italy",Cagliari/elmas, Italy
+LIEO,europe,40.9,9.517,"Olbia/costa Smerald, Italy",Olbia/costa Smerald, Italy
+LIMC,europe,45.617,8.733,"Milano/malpensa, Italy",Milano/malpensa, Italy
+LIME,europe,45.667,9.7,"Bergamo/orio Al Ser, Italy",Bergamo/orio Al Ser, Italy
+LIMF,europe,45.217,7.65,"Torino/caselle, Italy",Torino/caselle, Italy
+LIMG,europe,44.05,8.117,"Albenga, Italy",Albenga, Italy
+LIMJ,europe,44.417,8.85,"Genova/sestri, Italy",Genova/sestri, Italy
+LIMK,europe,45.033,7.733,"Torino/bric Della C, Italy",Torino/bric Della C, Italy
+LIML,europe,45.45,9.267,"Milano/linate, Italy",Milano/linate, Italy
+LIMS,europe,44.917,9.733,"Piacenza, Italy",Piacenza, Italy
+LIPA,europe,46.033,12.6,"Aviano, Italy",Aviano, Italy
+LIPB,europe,46.467,11.333,"Bolzano, Italy",Bolzano, Italy
+LIPC,europe,44.217,12.3,"Cervia, Italy",Cervia, Italy
+LIPE,europe,44.533,11.3,"Bologna/borgo Panig, Italy",Bologna/borgo Panig, Italy
+LIPK,europe,44.2,12.067,"Forli, Italy",Forli, Italy
+LIPL,europe,45.417,10.283,"Brescia/ghedi, Italy",Brescia/ghedi, Italy
+LIPQ,europe,45.817,13.483,"Ronchi Dei Legionar, Italy",Ronchi Dei Legionar, Italy
+LIPR,europe,44.033,12.617,"Rimini, Italy",Rimini, Italy
+LIPS,europe,45.683,12.1,"Treviso/istrana, Italy",Treviso/istrana, Italy
+LIPX,europe,45.383,10.867,"Verona/villafranca, Italy",Verona/villafranca, Italy
+LIPY,europe,43.617,13.367,"Falconara, Italy",Falconara, Italy
+LIPZ,europe,45.5,12.333,"Venezia/tessera, Italy",Venezia/tessera, Italy
+LIRF,europe,41.8,12.233,"Roma Fiumicino, Italy",Roma Fiumicino, Italy
+LIRG,europe,42,12.733,"Guidonia, Italy",Guidonia, Italy
+LIRL,europe,41.55,12.9,"Latina, Italy",Latina, Italy
+LIRN,europe,40.85,14.3,"Napoli/capodichino, Italy",Napoli/capodichino, Italy
+LIRP,europe,43.683,10.383,"Pisa/s. Giusto, Italy",Pisa/s. Giusto, Italy
+LIRQ,europe,43.8,11.2,"Firenze/peretola, Italy",Firenze/peretola, Italy
+LIRS,europe,42.75,11.083,"Grosseto, Italy",Grosseto, Italy
+LIRU,europe,41.95,12.5,"Roma/urbe, Italy",Roma/urbe, Italy
+LIRV,europe,42.433,12.05,"Viterbo, Italy",Viterbo, Italy
+LIVT,europe,45.65,13.75,"Trieste, Italy",Trieste, Italy
+LKCS,europe,48.933,14.417,"Ceske Budejovice, Czech republic",Ceske Budejovice, Czech republic
+LKKV,europe,50.217,12.917,"Karlovy Vary, Czech republic",Karlovy Vary, Czech republic
+LKLB,europe,50.767,15.017,"Liberec, Czech republic",Liberec, Czech republic
+LKMT,europe,49.683,18.117,"Ostrava/mosnov, Czech republic",Ostrava/mosnov, Czech republic
+LKNA,europe,49.167,16.117,"Namest Nad Oslav, Czech republic",Namest Nad Oslav, Czech republic
+LKPI,europe,49.583,15.767,"Pribyslav, Czech Republic",Pribyslav, Czech Republic
+LKPM,europe,49.467,13.833,"Kocelovice, Czech Republic",Kocelovice, Czech Republic
+LKPO,europe,49.417,17.4,"Prerov, Czech republic",Prerov, Czech republic
+LKPR,europe,50.1,14.25,"Praha/ruzyne, Czech republic",Praha/ruzyne, Czech republic
+LKTB,europe,49.15,16.683,"Brno/turany, Czech republic",Brno/turany, Czech republic
+LLBG,europe,32,34.9,"Ben-gurion Int. Air, Israel",Ben-gurion Int. Air, Israel
+LLET,europe,29.55,34.95,"Eilat, Israel",Eilat, Israel
+LMML,europe,35.85,14.483,"Luqa, Malta",Luqa, Malta
+LOWG,europe,47,15.433,"Graz-thalerhof-flug, Austria",Graz-thalerhof-flug, Austria
+LOWI,europe,47.267,11.35,"Innsbruck-flughafen, Austria",Innsbruck-flughafen, Austria
+LOWK,europe,46.65,14.333,"Klagenfurt-flughafe, Austria",Klagenfurt-flughafe, Austria
+LOWL,europe,48.233,14.183,"Linz/hoersching-flu, Austria",Linz/hoersching-flu, Austria
+LOWM,europe,47.85,16.533,"Eisenstadt, Austria",Eisenstadt, Austria
+LOWS,europe,47.8,13,"Salzburg-flughafen, Austria",Salzburg-flughafen, Austria
+LOWW,europe,48.117,16.567,"Wien/schwechat-flug, Austria",Wien/schwechat-flug, Austria
+LOXT,europe,48.317,16.117,"Tulln Langenlebarn, Austria",Tulln Langenlebarn, Austria
+LOXZ,europe,47.2,14.75,"Zeltweg, Austria",Zeltweg, Austria
+LPBG,europe,41.8,-6.733,"Braganca, Portugal",Braganca, Portugal
+LPBJ,europe,38.017,-7.867,"Beja, Portugal",Beja, Portugal
+LPFR,europe,37.017,-7.967,"Faro/aeroporto, Portugal",Faro/aeroporto, Portugal
+LPPR,europe,41.233,-8.683,"Porto/pedras Rubras, Portugal",Porto/pedras Rubras, Portugal
+LPPT,europe,38.767,-9.133,"Lisboa/portela, Portugal",Lisboa/portela, Portugal
+LQSA,europe,43.817,18.333,"Sarajevo/butmir, Bosnia and herzegovina",Sarajevo/butmir, Bosnia and herzegovina
+LRAR,europe,46.133,21.35,"Arad, Romania",Arad, Romania
+LRBC,europe,46.533,26.917,"Bacau, Romania",Bacau, Romania
+LRBS,europe,44.483,26.117,"Bucuresti Inmh-bane, Romania",Bucuresti Inmh-bane, Romania
+LRCK,europe,44.333,28.433,"Kogalniceanu, Romania",Kogalniceanu, Romania
+LRCL,europe,46.783,23.567,"Cluj-napoca, Romania",Cluj-napoca, Romania
+LRCS,europe,45.417,22.217,"Caransebes, Romania",Caransebes, Romania
+LRCV,europe,44.317,23.867,"Craiova, Romania",Craiova, Romania
+LRIA,europe,47.167,27.633,"Iasi, Romania",Iasi, Romania
+LROD,europe,47.033,21.9,"Oradea, Romania",Oradea, Romania
+LROP,europe,44.483,26.183,"Bucuresti Afumati, Romania",Bucuresti Afumati, Romania
+LRSB,europe,45.783,24.083,"Sibiu, Romania",Sibiu, Romania
+LRSM,europe,47.717,22.883,"Satu Mare, Romania",Satu Mare, Romania
+LRTC,europe,45.183,28.817,"Tulcea, Romania",Tulcea, Romania
+LRTM,europe,46.533,24.533,"Tg. Mures, Romania",Tg. Mures, Romania
+LRTR,europe,45.767,21.25,"Timisoara, Romania",Timisoara, Romania
+LSGG,europe,46.25,6.133,"Geneve-cointrin, Switzerland",Geneve-cointrin, Switzerland
+LSGS,europe,46.217,7.333,"Sion, Switzerland",Sion, Switzerland
+LSMP,europe,46.817,6.95,"Payerne, Switzerland",Payerne, Switzerland
+LSZA,europe,46,8.967,"Lugano, Switzerland",Lugano, Switzerland
+LSZH,europe,47.483,8.533,"Zurich-kloten, Switzerland",Zurich-kloten, Switzerland
+LTAC,europe,40.117,33,"Esenboga, Turkey",Esenboga, Turkey
+LTAD,europe,39.95,32.683,"Etimesgut, Turkey",Etimesgut, Turkey
+LTAG,europe,37,35.417,"Adana/incirlik, Turkey",Adana/incirlik, Turkey
+LTAI,europe,36.867,30.733,"Antalya, Turkey",Antalya, Turkey
+LTAN,europe,37.967,32.549,"Konya, Turkey",Konya, Turkey
+LTAP,europe,40.85,35.583,"Merzifon, Turkey",Merzifon, Turkey
+LTAR,europe,39.75,37.017,"Sivas, Turkey",Sivas, Turkey
+LTAS,europe,41.45,31.8,"Zonguldak, Turkey",Zonguldak, Turkey
+LTAT,europe,38.433,38.083,"Malatya/erhac, Turkey",Malatya/erhac, Turkey
+LTAU,europe,38.817,35.433,"Kayseri/erkilet, Turkey",Kayseri/erkilet, Turkey
+LTBA,europe,40.967,28.817,"Istanbul/ataturk, Turkey",Istanbul/ataturk, Turkey
+LTBE,europe,40.183,29.067,"Bursa, Turkey",Bursa, Turkey
+LTBF,europe,39.617,27.917,"Balikesir, Turkey",Balikesir, Turkey
+LTBG,europe,40.317,27.967,"Bandirma, Turkey",Bandirma, Turkey
+LTBH,europe,40.133,26.4,"Canakkale, Turkey",Canakkale, Turkey
+LTBI,europe,39.783,30.567,"Eskisehir, Turkey",Eskisehir, Turkey
+LTBL,europe,38.517,27.017,"Izmir/cigli, Turkey",Izmir/cigli, Turkey
+LTBM,europe,37.75,30.55,"Isparta, Turkey",Isparta, Turkey
+LTBT,europe,38.917,27.85,"Akhisar, Turkey",Akhisar, Turkey
+LTCA,europe,38.6,39.283,"Elazig, Turkey",Elazig, Turkey
+LTCC,europe,37.883,40.183,"Diyarbakir, Turkey",Diyarbakir, Turkey
+LTCD,europe,39.7,39.517,"Erzincan, Turkey",Erzincan, Turkey
+LTCE,europe,39.95,41.167,"Erzurum, Turkey",Erzurum, Turkey
+LTCG,europe,41,39.717,"Trabzon, Turkey",Trabzon, Turkey
+LTCI,europe,38.467,43.35,"Van, Turkey",Van, Turkey
+LTCM,europe,42.033,35.167,"Sinop, Turkey",Sinop, Turkey
+LUKK,europe,46.917,28.933,"Chisinau, Moldova",Chisinau, Moldova
+LWSK,europe,41.967,21.65,"Skopje- Airport, Macedonia",Skopje- Airport, Macedonia
+LXGB,europe,36.15,-5.35,"Gibraltar, Gibraltar",Gibraltar, Gibraltar
+LYBE,europe,44.817,20.283,"Beograd/surcin, RI",Beograd/surcin, RI
+LZIB,europe,48.2,17.2,"Bratislava-letisko, Slovakia",Bratislava-letisko, Slovakia
+LZNI,europe,48.283,18.133,"Nitra, Slovakia",Nitra, Slovakia
+LZTT,europe,49.067,20.25,"Poprad/tatry, Slovakia",Poprad/tatry, Slovakia
+OJAM,europe,31.983,35.983,"Amman Airport, Jordan",Amman Airport, Jordan
+OSDI,europe,33.417,36.517,"Damascus Int. Airpo, Syria",Damascus Int. Airpo, Syria
+OSDZ,europe,35.317,40.15,"Deir Ezzor, Syria",Deir Ezzor, Syria
+UKBB,europe,50.333,30.967,"Boryspil, Ukraine",Boryspil, Ukraine
+UKCC,europe,48.067,37.733,"Donetsk, Ukraine",Donetsk, Ukraine
+UKCM,europe,47.033,37.5,"Mariupol, Ukraine",Mariupol, Ukraine
+UKDD,europe,48.533,34.667,"Dnipropetrovsk, Ukraine",Dnipropetrovsk, Ukraine
+UKDE,europe,47.8,35.017,"Zaporizhzhia, Ukraine",Zaporizhzhia, Ukraine
+UKDR,europe,48.033,33.2,"Lozuvatka, Ukraine",Lozuvatka, Ukraine
+UKFF,europe,44.683,34.133,"Simferopol, Ukraine",Simferopol, Ukraine
+UKHH,europe,49.967,36.133,"Kharkiv, Ukraine",Kharkiv, Ukraine
+UKHP,europe,49.6,34.55,"Poltava Suprunovka Arpt, Ukraine",Poltava Suprunovka Arpt, Ukraine
+UKHS,europe,50.85,34.667,"Sumy, Ukraine",Sumy, Ukraine
+UKKG,europe,48.517,32.2,"Kirovohrad, Ukraine",Kirovohrad, Ukraine
+UKKK,europe,50.4,30.567,"Kyiv, Ukraine",Kyiv, Ukraine
+UKLL,europe,49.817,23.95,"Lviv, Ukraine",Lviv, Ukraine
+UKLN,europe,48.25,25.983,"Chernivtsi, Ukraine",Chernivtsi, Ukraine
+UKLR,europe,50.583,26.133,"Rivne, Ukraine",Rivne, Ukraine
+UKLT,europe,49.533,25.667,"Ternopil, Ukraine",Ternopil, Ukraine
+UKLU,europe,48.633,22.267,"Uzhhorod, Ukraine",Uzhhorod, Ukraine
+UKOH,europe,46.633,32.567,"Kherson, Ukraine",Kherson, Ukraine
+UKOO,europe,46.433,30.767,"Odesa, Ukraine",Odesa, Ukraine
+UKRR,europe,51.467,31.25,"Chernihiv, Ukraine",Chernihiv, Ukraine
+ULAA,europe,64.5,40.716,"Arhangelsk, Russia",Arhangelsk, Russia
+ULKK,europe,61.233,46.683,"Kotlas, Russia",Kotlas, Russia
+ULLI,europe,59.8,30.263,"Pulkovo, Russia",Pulkovo, Russia
+ULMM,europe,68.967,33.05,"Murmansk, Russia",Murmansk, Russia
+ULPB,europe,61.817,34.267,"Petrozavodsk, Russia",Petrozavodsk, Russia
+ULWW,europe,59.317,39.917,"Vologda, Russia",Vologda, Russia
+UMBB,europe,52.117,23.683,"Brest, Belarus",Brest, Belarus
+UMGG,europe,52.4,30.95,"Gomel, Belarus",Gomel, Belarus
+UMII,europe,55.167,30.217,"Vitebsk, Belarus",Vitebsk, Belarus
+UMKK,europe,54.717,20.55,"Kaliningrad, Russia",Kaliningrad, Russia
+UMMM,europe,53.933,27.633,"Minsk, Belarus",Minsk, Belarus
+URKK,europe,45.033,39.15,"Krasnodar, Russia",Krasnodar, Russia
+URMM,europe,44.233,43.067,"Mineralnye Vody, Russia",Mineralnye Vody, Russia
+URMO,europe,43.033,44.683,"Vladikavkaz, Russia",Vladikavkaz, Russia
+URRP,europe,47.4939,39.9247,"Platov International Airport, Russia",Platov International Airport, Russia
+URRR,europe,47.25,39.817,"Rostov-na-donu, Russia",Rostov-na-donu, Russia
+URSS,europe,43.433,39.9,"Sochi (adler), Russia",Sochi (adler), Russia
+URWW,europe,48.783,44.346,"Volgograd, Russia",Volgograd, Russia
+UUEE,europe,55.967,37.417,"Sheremetyevo, Russia",Sheremetyevo, Russia
+UUWW,europe,55.583,37.25,"Vnukovo, Russia",Vnukovo, Russia
+UWPP,europe,53.117,45.017,"Penza, Russia",Penza, Russia
+UWSG,europe,51.713,46.171,"Saratova/gagarin Arpt, Russia",Saratova/gagarin Arpt, Russia
+UWSS,europe,51.55,46.033,"Saratov, Russia",Saratov, Russia

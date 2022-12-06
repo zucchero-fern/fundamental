@@ -1,0 +1,108 @@
+Station,Region,Latitude,Longitude,Name,City,State,Country
+SAAC,southamerica,-31.3,-58.017,"Concordia Aero, Argentina",Concordia Aero,Entre_Rios, Argentina
+SAAG,southamerica,-33,-58.617,"Gualeguaychu Aero, Argentina",Gualeguaychu Aero,Entre_Rios, Argentina
+SAAJ,southamerica,-34.55,-60.917,"Junin Aero, Argentina",Junin Aero,Buenos_Aires, Argentina
+SAAP,southamerica,-31.783,-60.483,"Parana Aero, Argentina",Parana Aero,Entre_Rios, Argentina
+SAAR,southamerica,-32.917,-60.783,"Rosario Aero, Argentina",Rosario Aero,Santa_Fe, Argentina
+SAAV,southamerica,-31.7,-60.817,"Sauce Viejo Aero, Argentina",Sauce Viejo Aero,Santa_Fe, Argentina
+SACO,southamerica,-31.317,-64.217,"Cordoba Aero, Argentina",Cordoba Aero,Cordoba, Argentina
+SAEZ,southamerica,-34.817,-58.533,"Ezeiza Aero, Argentina",Ezeiza Aero,Buenos_Aires, Argentina
+SANE,southamerica,-27.767,-64.3,"Santiago Del Estero, Argentina",Santiago Del Estero,Santiago_del_Estero, Argentina
+SANT,southamerica,-26.833,-65.2,"Tucuman/teniente Be, Argentina",Tucuman/teniente Be,Tucuman, Argentina
+SANW,southamerica,-29.883,-61.95,"Ceres Aero, Argentina",Ceres Aero,Santa_Fe, Argentina
+SAOC,southamerica,-33.117,-64.233,"Rio Cuarto Aero, Argentina",Rio Cuarto Aero,Cordoba, Argentina
+SAOL,southamerica,-34.133,-63.367,"Laboulaye Aero, Argentina",Laboulaye Aero,Cordoba, Argentina
+SAOM,southamerica,-32.7,-62.15,"Marcos Juarez Aero, Argentina",Marcos Juarez Aero,Cordoba, Argentina
+SAOR,southamerica,-33.733,-65.382,"Villa Reynolds Aero, Argentina",Villa Reynolds Aero,San_Luis, Argentina
+SAOU,southamerica,-33.267,-66.35,"San Luis Aero, Argentina",San Luis Aero,San_Luis, Argentina
+SARC,southamerica,-27.45,-58.767,"Corrientes Aero., Argentina",Corrientes Aero.,Entre_Rios, Argentina
+SARE,southamerica,-27.45,-59.05,"Resistencia Aero, Argentina",Resistencia Aero,Chaco, Argentina
+SARF,southamerica,-26.2,-58.233,"Formosa Aero, Argentina",Formosa Aero,Chaco, Argentina
+SASA,southamerica,-24.85,-65.483,"Salta Aero, Argentina",Salta Aero,Salta, Argentina
+SATR,southamerica,-29.2,-59.683,"Reconquista, Argentina",Reconquista,Santa_Fe, Argentina
+SAZB,southamerica,-38.733,-62.167,"Bahia Blanca Aero, Argentina",Bahia Blanca Aero,Buenos_Aires, Argentina
+SAZI,southamerica,-36.183,-61.067,"Bolivar, Argentina",Bolivar,Buenos_Aires, Argentina
+SAZM,southamerica,-37.933,-57.583,"Mar Del Plata Aero, Argentina",Mar Del Plata Aero,Buenos_Aires, Argentina
+SAZR,southamerica,-36.567,-64.266,"Santa Rosa Aero, Argentina",Santa Rosa Aero,La_Pampa, Argentina
+SAZT,southamerica,-37.233,-59.25,"Tandil Aero, Argentina",Tandil Aero,Buenos_Aires, Argentina
+SBAS,southamerica,-22.8163,-50.8019,"Pedrinhaspaulista-sp, Brazil",Pedrinhaspaulista-sp,SP, Brazil
+SBAT,southamerica,-9.867,-56.1,"Alta Floresta /aero, Brazil",Alta Floresta /aero,MT, Brazil
+SBAV,southamerica,-23.0238,-54.0232,"Navirai-ms, Brazil",Navirai-ms,MS, Brazil
+SBBE,southamerica,-1.383,-48.483,"Belem (aeroporto), Brazil",Belem (aeroporto),Para, Brazil
+SBBG,southamerica,-31.35,-54.117,"Bage (aeroporto), Brazil",Bage (aeroporto),RS, Brazil
+SBBI,southamerica,-25.417,-49.267,"Curitiba, Brazil",Curitiba,PR, Brazil
+SBBR,southamerica,-15.867,-47.933,"Brasilia /aeroporto, Brazil",Brasilia /aeroporto,GO, Brazil
+SBBU,southamerica,-22.317,-49.117,"Bauru, Brazil",Bauru,SP, Brazil
+SBBW,southamerica,-15.867,-52.383,"Barra Do Garcas, Brazil",Barra Do Garcas,MT, Brazil
+SBCA,southamerica,-25,-53.5,"Cascavel, Brazil",Cascavel,PR, Brazil
+SBCC,southamerica,-9.333,-54.967,"Cachimbo Aero, Brazil",Cachimbo Aero,Para, Brazil
+SBCG,southamerica,-20.467,-54.667,"Campo Grande /aerop, Brazil",Campo Grande /aerop,MS, Brazil
+SBCH,southamerica,-27.117,-52.617,"Chapeco, Brazil",Chapeco,SC, Brazil
+SBCV,southamerica,-17.633,-39.25,"Caravelas /aeroport, Brazil",Caravelas /aeroport,BA, Brazil
+SBCX,southamerica,-29.167,-51.2,"Caxias Do Sul, Brazil",Caxias Do Sul,RS, Brazil
+SBCY,southamerica,-15.65,-56.1,"Cuiaba (aeroporto), Brazil",Cuiaba (aeroporto),MT, Brazil
+SBDN,southamerica,-22.117,-51.383,"Presidente Prudente, Brazil",Presidente Prudente,SP, Brazil
+SBEG,southamerica,-3.033,-60.05,"Eduardo Gomes Intl, Brazil",Eduardo Gomes Intl,Amazon, Brazil
+SBFC,southamerica,-20.55,-47.433,"Franca, Brazil",Franca,SP, Brazil
+SBFI,southamerica,-25.517,-54.583,"Foz Do Iguacu /aero, Brazil",Foz Do Iguacu /aero,PR, Brazil
+SBFT,southamerica,-20.1383,-48.7008,"Planura-mg, Brazil",Planura-mg,MG, Brazil
+SBFU,southamerica,-19.4938,-46.549,"Ibia-mg, Brazil",Ibia-mg,MG, Brazil
+SBGL,southamerica,-22.817,-43.25,"Galeao, Brazil",Galeao,MG, Brazil
+SBGO,southamerica,-16.633,-49.217,"Goiania (aeroporto), Brazil",Goiania (aeroporto),GO, Brazil
+SBGR,southamerica,-23.43,-46.467,"Guarulhos, Brazil",Guarulhos,SP, Brazil
+SBGS,southamerica,-24.5398,-49.9278,"Piraidosul-pr, Brazil",Piraidosul-pr,PR, Brazil
+SBIL,southamerica,-14.817,-39.033,"Ilheus (aeroporto), Brazil",Ilheus (aeroporto),BA, Brazil
+SBIP,southamerica,-20.264,-42.183,"Manhuacu, Brazil",Manhuacu,MG, Brazil
+SBIT,southamerica,-18.4003,-49.2031,"Itumbiara-go, Brazil",Itumbiara-go,GO, Brazil
+SBJI,southamerica,-10.8708,-61.8465,"Parana, Brazil",Parana,Rondonia, Brazil
+SBKP,southamerica,-23,-47.133,"Campinas /aeroporto, Brazil",Campinas /aeroporto,SP, Brazil
+SBLJ,southamerica,-27.4009,-51.2277,"Camposnovos-sc, Brazil",Camposnovos-sc,SC, Brazil
+SBLO,southamerica,-23.333,-51.133,"Londrina /aeroporto, Brazil",Londrina /aeroporto,PR, Brazil
+SBLP,southamerica,-13.267,-43.417,"Bom Jesus Da Lapa, Brazil",Bom Jesus Da Lapa,BA, Brazil
+SBMG,southamerica,-23.417,-51.95,"Maringa, Brazil",Maringa,PR, Brazil
+SBMK,southamerica,-16.717,-43.867,"Montes Claros, Brazil",Montes Claros,MG, Brazil
+SBMT,southamerica,-23.5,-46.633,"Marte, Brazil",Marte,SP, Brazil
+SBNM,southamerica,-28.283,-54.167,"Santo Angelo, Brazil",Santo Angelo,RS, Brazil
+SBPA,southamerica,-30,-51.183,"Porto Alegre /aerop, Brazil",Porto Alegre /aerop,RS, Brazil
+SBPF,southamerica,-28.25,-52.4,"Passo Fundo, Brazil",Passo Fundo,RS, Brazil
+SBPK,southamerica,-31.783,-52.417,"Pelotas, Brazil",Pelotas,RS, Brazil
+SBPP,southamerica,-22.55,-55.7,"Ponta Pora /aeropor, Brazil",Ponta Pora /aeropor,MS, Brazil
+SBQV,southamerica,-14.95,-40.883,"Vitoria Da Conquist, Brazil",Vitoria Da Conquist,BA, Brazil
+SBRF,southamerica,-8.116,-34.916,"Recife  Brazil/ibura Fld, Brazil",Recife  Brazil/ibura Fld,Pernambuco, Brazil
+SBRG,southamerica,-33.533,-53.349,"Santa Vitoria Do Palmar, Brazil",Santa Vitoria Do Palmar,RS, Brazil
+SBRP,southamerica,-21.134,-47.774,"Ribeirao Preto Areo, Brazil",Ribeirao Preto Areo,SP, Brazil
+SBSM,southamerica,-29.717,-53.7,"Santa Maria /aeropo, Brazil",Santa Maria /aeropo,RS, Brazil
+SBSR,southamerica,-20.8166,-49.4065,"Sao Jose Do Rio Preto Aero, Brazil",Sao Jose Do Rio Preto Aero,SP, Brazil
+SBSV,southamerica,-12.9,-38.333,"Salvador /aeroporto, Brazil",Salvador /aeroporto,BA, Brazil
+SBTL,southamerica,-24.4,-50.833,"Ivai, Brazil",Ivai,PR, Brazil
+SBUG,southamerica,-29.783,-57.033,"Uruguaiana /aeropor, Brazil",Uruguaiana /aeropor,RS, Brazil
+SBUL,southamerica,-18.883,-48.233,"Uberlandia, Brazil",Uberlandia,MG, Brazil
+SBUP,southamerica,-20.8,-51.567,"Urubupunga, Brazil",Urubupunga,SP, Brazil
+SBUR,southamerica,-19.783,-47.967,"Uberaba, Brazil",Uberaba,MG, Brazil
+SBVG,southamerica,-21.233,-45,"Lavras, Brazil",Lavras,MG, Brazil
+SBVH,southamerica,-12.7,-60.1,"Vilhena (aeroporto), Brazil",Vilhena (aeroporto),Rondonia, Brazil
+SBVT,southamerica,-20.267,-40.283,"Vitoria (aeroporto), Brazil",Vitoria (aeroporto),Espirito_Santo, Brazil
+SGAY,southamerica,-26.183,-56.35,"Caazapa, Paraguay",Caazapa, Paraguay, Paraguay
+SGCO,southamerica,-23.43,-57.417,"Concepcion, Paraguay",Concepcion, Paraguay, Paraguay
+SGEN,southamerica,-27.3,-55.9,"Encarnacion, Paraguay",Encarnacion, Paraguay, Paraguay
+SGIB,southamerica,-25.45,-54.833,"Aeropuerto Int. Guarani, Paraguay",Aeropuerto Int. Guarani, Paraguay, Paraguay
+SKAR,southamerica,4.5,-75.717,"Armenia/el Eden, Colombia",Armenia/el Eden, Colombia, Colombia
+SKBG,southamerica,7.1,-73.2,"Bucaramanga/paloneg, Colombia",Bucaramanga/paloneg, Colombia, Colombia
+SKIB,southamerica,4.433,-75.15,"Ibague/perales, Colombia",Ibague/perales, Colombia, Colombia
+SKMD,southamerica,6.217,-75.6,"Medellin/olaya Herr, Colombia",Medellin/olaya Herr, Colombia, Colombia
+SKMZ,southamerica,5.033,-75.467,"Manizales/la Nubia&, Colombia",Manizales/la Nubia&, Colombia, Colombia
+SKNV,southamerica,2.967,-75.3,"Neiva/benito Salas, Colombia",Neiva/benito Salas, Colombia, Colombia
+SKPE,southamerica,4.817,-75.733,"Pereira/matecana, Colombia",Pereira/matecana, Colombia, Colombia
+SKPP,southamerica,2.467,-76.6,"Popayan/machangara, Colombia",Popayan/machangara, Colombia, Colombia
+SKPS,southamerica,1.417,-77.267,"Pasto/antonio Narin, Colombia",Pasto/antonio Narin, Colombia, Colombia
+SUCA,southamerica,-34.45,-57.833,"Colonia, Uruguay",Colonia, Uruguay, Uruguay
+SUFL,southamerica,-34.067,-56.233,"Florida, Uruguay",Florida, Uruguay, Uruguay
+SUME,southamerica,-33.25,-58.067,"Mercedes, Uruguay",Mercedes, Uruguay, Uruguay
+SUMO,southamerica,-32.35,-54.183,"Melo, Uruguay",Melo, Uruguay, Uruguay
+SUMU,southamerica,-34.833,-56,"Carrasco, Uruguay",Carrasco, Uruguay, Uruguay
+SUPT,southamerica,-32.8,-56.517,"Paso De Los Toros, Uruguay",Paso De Los Toros, Uruguay, Uruguay
+SUPU,southamerica,-32.333,-58.033,"Paysandu, Uruguay",Paysandu, Uruguay, Uruguay
+SURO,southamerica,-34.483,-54.3,"Rocha, Uruguay",Rocha, Uruguay, Uruguay
+SURV,southamerica,-30.883,-55.533,"Rivera, Uruguay",Rivera, Uruguay, Uruguay
+SUSO,southamerica,-31.433,-57.967,"Salto, Uruguay",Salto, Uruguay, Uruguay
+SUYN,southamerica,-32.683,-57.633,"Young, Uruguay",Young, Uruguay, Uruguay

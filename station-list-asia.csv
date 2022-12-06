@@ -1,0 +1,340 @@
+Station,Region,Latitude,Longitude,Name,City,State,Country
+LRSV,asia,47.633,26.25,"Suceava, Romania",Suceava,, Romania
+OMDB,asia,25.25,55.333,"Dubai, AE",Dubai,, AE
+RCKH,asia,22.583,120.35,"Kaohsiung Intl Arpt, Taiwan",Kaohsiung Intl Arpt,, Taiwan
+RCSS,asia,25.067,121.55,"Sungshan/taipei, Taiwan",Sungshan/taipei,, Taiwan
+RCTP,asia,25.083,121.217,"Chiang Kai Shek, Taiwan",Chiang Kai Shek,, Taiwan
+RJAA,asia,35.767,140.383,"New Tokyo Internati, Japan",New Tokyo Internati,, Japan
+RJAH,asia,36.183,140.417,"Hyakuri Ab, Japan",Hyakuri Ab,, Japan
+RJBD,asia,33.667,135.367,"Nankishirahama Airp, Japan",Nankishirahama Airp,, Japan
+RJCB,asia,42.733,143.217,"Obihiro Airport, Japan",Obihiro Airport,, Japan
+RJCH,asia,41.767,140.817,"Hakodate Airport, Japan",Hakodate Airport,, Japan
+RJCK,asia,43.033,144.2,"Kushiro Airport, Japan",Kushiro Airport,, Japan
+RJCM,asia,43.883,144.167,"Memambetsu Airport, Japan",Memambetsu Airport,, Japan
+RJCN,asia,43.583,144.967,"Nakashibetsu Airpor, Japan",Nakashibetsu Airpor,, Japan
+RJCO,asia,43.117,141.383,"Sapporo Ab, Japan",Sapporo Ab,, Japan
+RJCW,asia,45.4,141.8,"Wakkanai Airport, Japan",Wakkanai Airport,, Japan
+RJDC,asia,33.933,131.283,"Yamaguchi Ube Airpo, Japan",Yamaguchi Ube Airpo,, Japan
+RJDT,asia,34.283,129.333,"Tsushima Airport, Japan",Tsushima Airport,, Japan
+RJEB,asia,44.3,143.4,"Monbetsu Airport, Japan",Monbetsu Airport,, Japan
+RJEC,asia,43.667,142.45,"Asahikawa Airport, Japan",Asahikawa Airport,, Japan
+RJFE,asia,32.667,128.833,"Fukue Airport, Japan",Fukue Airport,, Japan
+RJFF,asia,33.583,130.449,"Fukuoka Airport, Japan",Fukuoka Airport,, Japan
+RJFG,asia,30.55,130.949,"Tanegashima Airport, Japan",Tanegashima Airport,, Japan
+RJFK,asia,31.8,130.717,"Kagoshima Airport, Japan",Kagoshima Airport,, Japan
+RJFM,asia,31.867,131.45,"Miyazaki Airport, Japan",Miyazaki Airport,, Japan
+RJFO,asia,33.483,131.733,"Oita Airport, Japan",Oita Airport,, Japan
+RJFR,asia,33.833,130.949,"Kitakyushu Airport, Japan",Kitakyushu Airport,, Japan
+RJFT,asia,32.833,130.85,"Kumamoto Airport, Japan",Kumamoto Airport,, Japan
+RJFU,asia,32.917,129.917,"Nagasaki Airport, Japan",Nagasaki Airport,, Japan
+RJFY,asia,31.367,130.833,"Kanoya Ab, Japan",Kanoya Ab,, Japan
+RJNA,asia,35.25,136.917,"Nagoya Airport, Japan",Nagoya Airport,, Japan
+RJNH,asia,34.75,137.7,"Hamamatsu Ab, Japan",Hamamatsu Ab,, Japan
+RJNK,asia,36.4,136.4,"Komatsu Ab, Japan",Komatsu Ab,, Japan
+RJNT,asia,36.65,137.183,"Toyama Airport, Japan",Toyama Airport,, Japan
+RJNY,asia,34.817,138.3,"Shizuhama Ab, Japan",Shizuhama Ab,, Japan
+RJOA,asia,34.433,132.917,"Hiroshima Airport, Japan",Hiroshima Airport,, Japan
+RJOB,asia,34.75,133.85,"Okayama Airport, Japan",Okayama Airport,, Japan
+RJOC,asia,35.417,132.883,"Izumo Airport, Japan",Izumo Airport,, Japan
+RJOK,asia,33.55,133.667,"Kochi Airport, Japan",Kochi Airport,, Japan
+RJOM,asia,33.833,132.7,"Matsuyama Airport, Japan",Matsuyama Airport,, Japan
+RJOO,asia,34.783,135.433,"Osaka International, Japan",Osaka International,, Japan
+RJOR,asia,35.533,134.167,"Tottori Airport, Japan",Tottori Airport,, Japan
+RJOS,asia,34.133,134.617,"Tokushima Ab, Japan",Tokushima Ab,, Japan
+RJOT,asia,34.217,134.017,"Takamatsu Airport, Japan",Takamatsu Airport,, Japan
+RJSC,asia,38.417,140.367,"Yamagata Airport, Japan",Yamagata Airport,, Japan
+RJSH,asia,40.55,141.467,"Hachinohe Ab, Japan",Hachinohe Ab,, Japan
+RJSI,asia,39.433,141.133,"Hanamaki Airport, Japan",Hanamaki Airport,, Japan
+RJSK,asia,39.617,140.217,"Akita Airport, Japan",Akita Airport,, Japan
+RJSN,asia,37.95,139.117,"Niigata Airport, Japan",Niigata Airport,, Japan
+RJSS,asia,38.133,140.917,"Sendai Airport, Japan",Sendai Airport,, Japan
+RJTA,asia,35.45,139.45,"Atsugi Nas, Japan",Atsugi Nas,, Japan
+RJTE,asia,34.983,139.833,"Tateyama Ab, Japan",Tateyama Ab,, Japan
+RJTJ,asia,35.833,139.417,"Iruma Ab, Japan",Iruma Ab,, Japan
+RJTL,asia,35.8,140.017,"Shimofusa Ab, Japan",Shimofusa Ab,, Japan
+RJTO,asia,34.783,139.367,"Oshima Airport, Japan",Oshima Airport,, Japan
+RJTT,asia,35.55,139.783,"Tokyo International, Japan",Tokyo International,, Japan
+RKJK,asia,35.917,126.617,"Kunsan Ab, ""korea",Kunsan Ab,,South_Korea
+RKPC,asia,33.517,126.5,"Jeju Intl Airport, ""korea",Jeju Intl Airport,,South_Korea
+RKPK,asia,35.169,128.934,"Gimhae Intl Airport, ""korea",Gimhae Intl Airport,,South_Korea
+RKSO,asia,37.1,127.033,"Osan Ab, ""korea",Osan Ab,,South_Korea
+RKSS,asia,37.567,126.783,"Gimpo Intl Airport, ""korea",Gimpo Intl Airport,,South_Korea
+RKTN,asia,35.9,128.667,"Daegu Ab, ""korea",Daegu Ab,,South_Korea
+RKTU,asia,36.717,127.5,"Cheongju Intl Airpo, ""korea",Cheongju Intl Airpo,,South_Korea
+ROAH,asia,26.2,127.65,"Naha Airport, Japan",Naha Airport,, Japan
+ROKJ,asia,26.333,126.8,"Kumejima, Japan",Kumejima,, Japan
+ROMY,asia,24.8,125.283,"Miyakojima, Japan",Miyakojima,, Japan
+RPLI,asia,18.183,120.533,"Laoag, Philippines",Laoag,, Philippines
+RPLL,asia,14.5,121,"Ninoy Aquino Intern, Philippines",Ninoy Aquino Intern,, Philippines
+RPUB,asia,16.4,120.6,"Baguio, Philippines",Baguio,, Philippines
+RPVA,asia,11.233,125.033,"Tacloban, Philippines",Tacloban,, Philippines
+UASS,asia,51.15,82.2,"Zmeinogorsk, Russian Federation",Zmeinogorsk,, Russia
+UHHH,asia,48.517,135.167,"Habarovsk, Russia",Habarovsk,, Russia
+UHNN,asia,53.15,140.7,"Nikolaevsk-na-amure, Russia",Nikolaevsk-na-amure,, Russia
+UHSS,asia,46.95,142.717,"Juzhno-sahalinsk, Russia",Juzhno-sahalinsk,, Russia
+UHTZ,asia,47.6,138.4,"Agzu, Russia",Agzu,, Russia
+UHWT,asia,45,136.6,"Ternej, Russia",Ternej,, Russia
+UHWW,asia,43.117,131.933,"Vladivostok, Russia",Vladivostok,, Russia
+UIAA,asia,52.083,113.483,"Chita, Russia",Chita,, Russia
+UIII,asia,52.267,104.317,"Irkutsk, Russia",Irkutsk,, Russia
+UIUU,asia,51.833,107.6,"Ulan-ude, Russia",Ulan-ude,, Russia
+ULMK,asia,45.083,133.533,"Kirovskij, Russia",Kirovskij,, Russia
+UNBB,asia,53.433,83.517,"Barnaul, Russia",Barnaul,, Russia
+UNOO,asia,55.017,73.383,"Omsk, Russia",Omsk,, Russia
+URMT,asia,45.117,42.083,"Stavropol, Russia",Stavropol,, Russia
+URRM,asia,48.35,41.867,"Morozovsk, Russian Federation",Morozovsk,, Russia
+USCM,asia,53.393,58.756,"Magnitogorsk, Russia",Magnitogorsk,, Russia
+UUBP,asia,53.25,34.317,"Brjansk, Russia",Brjansk,, Russia
+UUOO,asia,51.65,39.25,"Voronez, Russia",Voronez,, Russia
+UUOR,asia,52.933,36,"Orel, Russian Federation",Orel,, Russia
+UWKD,asia,55.733,49.2,"Kazan, Russia",Kazan,, Russia
+UWUU,asia,54.711,55.815,"Ufa-dioma, Russia",Ufa-dioma,, Russia
+UWWW,asia,53.25,50.45,"Samara, Russia",Samara,, Russia
+VAAH,asia,23.067,72.633,"Ahmadabad, India",Ahmadabad,, India
+VAAK,asia,20.7,77.067,"Akola, India",Akola,, India
+VAAU,asia,19.85,75.4,"Aurangabad Chikalth, India",Aurangabad Chikalth,, India
+VABJ,asia,23.25,69.667,"Bhuj-rudramata, India",Bhuj-rudramata,, India
+VABM,asia,15.85,74.617,"Belgaum/sambra, India",Belgaum/sambra,, India
+VABP,asia,23.283,77.35,"Bhopal/bairagarh, India",Bhopal/bairagarh,, India
+VAGN,asia,24.65,77.317,"Guna, India",Guna,, India
+VAID,asia,22.717,75.8,"Indore, India",Indore,, India
+VAJB,asia,23.2,79.95,"Jabalpur, India",Jabalpur,, India
+VAKP,asia,16.7,74.233,"Kolhapur, India",Kolhapur,, India
+VANP,asia,21.1,79.05,"Nagpur Sonegaon, India",Nagpur Sonegaon,, India
+VANR,asia,20,73.783,"Nasik, India",Nasik,, India
+VAPO,asia,18.533,73.85,"Poona, India",Poona,, India
+VARK,asia,22.3,70.783,"Rajkot, India",Rajkot,, India
+VASL,asia,17.667,75.9,"Sholapur, India",Sholapur,, India
+VASU,asia,21.2,72.833,"Surat, India",Surat,, India
+VDPP,asia,11.55,104.85,"Phnom-penh/pochento, Cambodia",Phnom-penh/pochento,, Cambodia
+VEGK,asia,26.75,83.367,"Gorakhpur, India",Gorakhpur,, India
+VEGY,asia,24.75,84.95,"Gaya, India",Gaya,, India
+VEMN,asia,27.483,95.017,"Dibrugarh/mohanbar, India",Dibrugarh/mohanbar,, India
+VEPT,asia,25.6,85.1,"Patna, India",Patna,, India
+VHHH,asia,22.317,113.917,"Hong Kong Internati, China",Hong Kong Internati,, China
+VIAL,asia,25.45,81.733,"Allahabad/bamhrauli, India",Allahabad/bamhrauli,, India
+VIAR,asia,31.633,74.867,"Amritsar, India",Amritsar,, India
+VIBK,asia,28,73.3,"Bikaner, India",Bikaner,, India
+VIBY,asia,28.367,79.4,"Bareilly, India",Bareilly,, India
+VIDD,asia,28.583,77.2,"New Delhi/safdarjun, India",New Delhi/safdarjun,, India
+VIGR,asia,26.233,78.25,"Gwalior, India",Gwalior,, India
+VIHR,asia,29.167,75.733,"Hissar, India",Hissar,, India
+VIJO,asia,26.3,73.017,"Jodhpur, India",Jodhpur,, India
+VIJP,asia,26.817,75.8,"Jaipur/sanganer, India",Jaipur/sanganer,, India
+VIKO,asia,25.15,75.85,"Kota Aerodrome, India",Kota Aerodrome,, India
+VILK,asia,26.75,80.883,"Lucknow/amausi, India",Lucknow/amausi,, India
+VIPL,asia,30.333,76.467,"Patiala, India",Patiala,, India
+VIST,asia,24.567,80.833,"Satna, India",Satna,, India
+VLVT,asia,17.95,102.567,"Vientiane, Laos",Vientiane,, Laos
+VMMC,asia,22.15,113.6,"Taipa Grande, Macau",Taipa Grande,, Macau
+VOBG,asia,12.95,77.667,"Bangalore, India",Bangalore,, India
+VOBZ,asia,16.533,80.8,"Vijayawada/gannava, India",Vijayawada/gannava,, India
+VOCB,asia,11.033,77.05,"Coimbatore/peelamed, India",Coimbatore/peelamed,, India
+VOCP,asia,14.683,77.617,"Anantapur, India",Anantapur,, India
+VOHY,asia,17.45,78.467,"Begumpet Airport, India",Begumpet Airport,, India
+VOML,asia,12.917,74.883,"Mangalore/bajpe, India",Mangalore/bajpe,, India
+VOMM,asia,13,80.183,"Madras/minambakkam, India",Madras/minambakkam,, India
+VONS,asia,15.8,78.067,"Kurnool, India",Kurnool,, India
+VORY,asia,16.95,82.233,"Kakinada, India",Kakinada,, India
+VOTP,asia,14.45,79.983,"Nellore, India",Nellore,, India
+VOTR,asia,10.767,78.717,"Tiruchchirapalli, India",Tiruchchirapalli,, India
+VOTX,asia,11.767,79.767,"Cuddalore, India",Cuddalore,, India
+VOWA,asia,18.767,79.433,"Ramgundam, India",Ramgundam,, India
+VTBS,asia,13.367,100.983,"Chon Buri, Thailand",Chon Buri,, Thailand
+VTBU,asia,12.683,100.983,"Sattahip, Thailand",Sattahip,, Thailand
+VTCL,asia,18.283,99.517,"Lampang, Thailand",Lampang,, Thailand
+VTCN,asia,18.767,100.767,"Nan, Thailand",Nan,, Thailand
+VTCP,asia,18.167,100.167,"Phrae, Thailand",Phrae,, Thailand
+VTPB,asia,16.433,101.15,"Phetchabun, Thailand",Phetchabun,, Thailand
+VTPH,asia,12.583,99.95,"Hua Hin, Thailand",Hua Hin,, Thailand
+VTPT,asia,16.883,99.15,"Tak, Thailand",Tak,, Thailand
+VTUD,asia,17.383,102.8,"Udon Thani, Thailand",Udon Thani,, Thailand
+VTUK,asia,16.433,102.833,"Khon Kaen, Thailand",Khon Kaen,, Thailand
+VTUL,asia,17.45,101.733,"Loei, Thailand",Loei,, Thailand
+VVDN,asia,16.067,108.35,"Da Nang, Vietnam",Da Nang,, Vietnam
+VVNB,asia,21.033,105.8,"Ha Noi, Vietnam",Ha Noi,, Vietnam
+VVNT,asia,12.217,109.217,"Nha Trang, Vietnam",Nha Trang,, Vietnam
+VVTS,asia,10.817,106.667,"Tan Son Hoa, Vietnam",Tan Son Hoa,, Vietnam
+VVVH,asia,18.667,105.683,"Vinh, Vietnam",Vinh,, Vietnam
+WBGR,asia,4.333,113.983,"Miri, Malaysia",Miri,, Malaysia
+WBGS,asia,2.333,111.833,"Sibu, Malaysia",Sibu,, Malaysia
+WBKK,asia,5.933,116.05,"Kota Kinabalu, Malaysia",Kota Kinabalu,, Malaysia
+WBKS,asia,5.9,118.067,"Sandakan, Malaysia",Sandakan,, Malaysia
+WBKW,asia,4.267,117.883,"Tawau, Malaysia",Tawau,, Malaysia
+WIBB,asia,0.467,101.45,"Pekan Baru/simpangt, Indonesia",Pekan Baru/simpangt,, Indonesia
+WIIA,asia,-6.233,106.65,"Curug/budiarto, Indonesia",Curug/budiarto,, Indonesia
+WIIH,asia,-6.25,106.9,"Halim Intl(civ/mil), Indonesia",Halim Intl(civ/mil),, Indonesia
+WIIT,asia,-5.1,105.183,"Tanjung Karang/radi, Indonesia",Tanjung Karang/radi,, Indonesia
+WIKB,asia,1.117,104.117,"Batan- Sumatra, Indonesia",Batan- Sumatra,, Indonesia
+WIKD,asia,-2.75,107.75,"Tanjung Pandan/bulu, Indonesia",Tanjung Pandan/bulu,, Indonesia
+WIMB,asia,1.5,97.633,"Gunung Sitoli/binak, Indonesia",Gunung Sitoli/binak,, Indonesia
+WIMM,asia,3.567,98.683,"Medan/polonia, Indonesia",Medan/polonia,, Indonesia
+WIPA,asia,-1.633,103.65,"Jambi/sultan Taha, Indonesia",Jambi/sultan Taha,, Indonesia
+WIPL,asia,-3.883,102.333,"Bengkulu/padang Kem, Indonesia",Bengkulu/padang Kem,, Indonesia
+WITT,asia,5.517,95.417,"Banda Aceh/blang Bi, Indonesia",Banda Aceh/blang Bi,, Indonesia
+WMBA,asia,4.217,100.7,"Sitiawan, Malaysia",Sitiawan,, Malaysia
+WMKC,asia,6.167,102.283,"Kota Bharu, Malaysia",Kota Bharu,, Malaysia
+WMKD,asia,3.783,103.217,"Kuantan, Malaysia",Kuantan,, Malaysia
+WMKM,asia,2.267,102.25,"Malacca, Malaysia",Malacca,, Malaysia
+WMKP,asia,5.3,100.267,"Penang/bayan Lepas, Malaysia",Penang/bayan Lepas,, Malaysia
+WMSA,asia,3.117,101.55,"Kuala Lumpur Subang, Malaysia",Kuala Lumpur Subang,, Malaysia
+WRBI,asia,-2.7,111.7,"Pangkalan Bun/iskan, Indonesia",Pangkalan Bun/iskan,, Indonesia
+WRLL,asia,-1.267,116.9,"Balikpapan / Sepinggan, Indonesia",Balikpapan / Sepinggan,, Indonesia
+WRLS,asia,-0.617,117.15,"Samarinda/temindung, Indonesia",Samarinda/temindung,, Indonesia
+ZBAA,asia,39.933,116.283,"Beijing, China",Beijing,, China
+ZBCD,asia,40.967,117.917,"Chengde, China",Chengde,, China
+ZBCF,asia,42.3,118.833,"Chifeng, China",Chifeng,, China
+ZBDS,asia,39.833,109.983,"Dongsheng, China",Dongsheng,, China
+ZBDT,asia,40.1,113.333,"Datong, China",Datong,, China
+ZBER,asia,43.65,112,"Erenhot, China",Erenhot,, China
+ZBES,asia,47.167,119.933,"Arxan, China",Arxan,, China
+ZBHH,asia,40.817,111.683,"Hohhot, China",Hohhot,, China
+ZBLA,asia,49.25,119.7,"Hailar, China",Hailar,, China
+ZBLL,asia,37.5,111.1,"Lishi, China",Lishi,, China
+ZBLX,asia,43.6,118.067,"Linxi, China",Linxi,, China
+ZBSJ,asia,38.283,114.683,"Zhengding, China",Zhengding,, China
+ZBTJ,asia,39.117,117.333,"Binhai, China",Binhai,, China
+ZBTL,asia,43.6,122.267,"Tongliao, China",Tongliao,, China
+ZBTS,asia,39.65,118.1,"Tangshan, China",Tangshan,, China
+ZBUC,asia,41.033,113.067,"Jining, China",Jining,, China
+ZBXH,asia,43.95,116.117,"Xilin Hot, China",Xilin Hot,, China
+ZBXT,asia,37.067,114.5,"Xingtai, China",Xingtai,, China
+ZBYC,asia,35.05,111.05,"Yuncheng, China",Yuncheng,, China
+ZBYN,asia,37.783,112.55,"Taiyuan, China",Taiyuan,, China
+ZBYZ,asia,40.767,107.4,"Linhe, China",Linhe,, China
+ZBZJ,asia,40.783,114.883,"Zhangjiakou, China",Zhangjiakou,, China
+ZGBS,asia,23.9,106.6,"Baise, China",Baise,, China
+ZGCD,asia,29.05,111.683,"Changde, China",Changde,, China
+ZGCJ,asia,27.45,109.683,"Zhijiang, China",Zhijiang,, China
+ZGCS,asia,28.2,113.083,"Changsha, China",Changsha,, China
+ZGGG,asia,23.217,113.483,"Guangzhou, China",Guangzhou,, China
+ZGHA,asia,28.233,112.867,"Changsha Huanghua, China",Changsha Huanghua,, China
+ZGHC,asia,24.7,108.05,"Hechi, China",Hechi,, China
+ZGHK,asia,20,110.25,"Haikou, China",Haikou,, China
+ZGKL,asia,25.333,110.3,"Guilin, China",Guilin,, China
+ZGLG,asia,26.233,111.617,"Lingling, China",Lingling,, China
+ZGMX,asia,24.3,116.117,"Mei Xian, China",Mei Xian,, China
+ZGNN,asia,22.633,108.217,"Nanning, China",Nanning,, China
+ZGOW,asia,23.4,116.683,"Shantou, China",Shantou,, China
+ZGSY,asia,26.733,110.633,"Wugang, China",Wugang,, China
+ZGSZ,asia,22.55,114.1,"Shenzhen, China",Shenzhen,, China
+ZGWZ,asia,23.483,111.3,"Wuzhou, China",Wuzhou,, China
+ZGZH,asia,24.35,109.4,"Liuzhou, China",Liuzhou,, China
+ZGZJ,asia,21.217,110.4,"Zhanjiang, China",Zhanjiang,, China
+ZHAY,asia,36.05,114.4,"Anyang, China",Anyang,, China
+ZHCC,asia,34.717,113.65,"Zhengzhou, China",Zhengzhou,, China
+ZHES,asia,30.283,109.467,"Enshi, China",Enshi,, China
+ZHHH,asia,30.6,114.05,"Wuhan, China",Wuhan,, China
+ZHNY,asia,33.033,112.583,"Nanyang, China",Nanyang,, China
+ZHXF,asia,32.15,112.667,"Zaoyang, China",Zaoyang,, China
+ZHYC,asia,30.7,111.3,"Yichang, China",Yichang,, China
+ZJHK,asia,19.933,110.45,"Meilan, China",Meilan,, China
+ZKPY,asia,39.033,125.783,"Pyongyang, ""korea",Pyongyang,,North_Korea
+ZLAK,asia,32.717,109.033,"Ankang, China",Ankang,, China
+ZLAN,asia,36.117,103.617,"Lan-zhou/city, China",Lan-zhou/city,, China
+ZLDH,asia,40.15,94.683,"Dunhuang, China",Dunhuang,, China
+ZLDL,asia,37.367,97.367,"Delingha, China",Delingha,, China
+ZLHX,asia,38.25,90.85,"Mangnai, China",Mangnai,, China
+ZLHZ,asia,33.067,107.033,"Hanzhong, China",Hanzhong,, China
+ZLIC,asia,38.467,106.2,"Yinchuan, China",Yinchuan,, China
+ZLJQ,asia,39.767,98.483,"Jiuquan, China",Jiuquan,, China
+ZLLL,asia,36.017,103.75,"Zhongchuan, China",Zhongchuan,, China
+ZLLN,asia,33.4,104.917,"Wudu, China",Wudu,, China
+ZLQY,asia,35.733,107.633,"Xifengzhen, China",Xifengzhen,, China
+ZLXN,asia,36.617,101.767,"Xining, China",Xining,, China
+ZLXY,asia,34.3,108.933,"Xian, China",Xian,, China
+ZLYA,asia,36.6,109.5,"Yan An, China",Yan An,, China
+ZLYL,asia,38.233,109.7,"Yulin, China",Yulin,, China
+ZLYS,asia,33,96.967,"Yushu, China",Yushu,, China
+ZLZW,asia,37.483,105.683,"Zhongning, China",Zhongning,, China
+ZLZY,asia,39.083,100.283,"Zhangye, China",Zhangye,, China
+ZMAH,asia,46.267,102.783,"Arvaiheer, Mongolia",Arvaiheer,, Mongolia
+ZMAT,asia,46.4,96.25,"Altai, Mongolia",Altai,, Mongolia
+ZMBH,asia,46.133,100.683,"Bayanhongor, Mongolia",Bayanhongor,, Mongolia
+ZMBN,asia,48.8,103.55,"Bulgan, Mongolia",Bulgan,, Mongolia
+ZMBU,asia,46.683,113.283,"Baruun-urt, Mongolia",Baruun-urt,, Mongolia
+ZMCD,asia,48.083,114.55,"Choibalsan, Mongolia",Choibalsan,, Mongolia
+ZMDZ,asia,43.583,104.417,"Dalanzadgad, Mongolia",Dalanzadgad,, Mongolia
+ZMHG,asia,50.433,100.15,"Hatgal, Mongolia",Hatgal,, Mongolia
+ZMHU,asia,46.9,102.767,"Hujirt, Mongolia",Hujirt,, Mongolia
+ZMKD,asia,48.017,91.567,"Hovd, Mongolia",Hovd,, Mongolia
+ZMMG,asia,45.767,106.283,"Mandalgobi, Mongolia",Mandalgobi,, Mongolia
+ZMMN,asia,49.633,100.167,"Muren, Mongolia",Muren,, Mongolia
+ZMSH,asia,44.9,110.117,"Sainshand, Mongolia",Sainshand,, Mongolia
+ZMTG,asia,47.45,101.467,"Tsetserleg, Mongolia",Tsetserleg,, Mongolia
+ZMUB,asia,47.917,106.867,"Ulaanbaatar, Mongolia",Ulaanbaatar,, Mongolia
+ZMUG,asia,49.8,92.083,"Ulaangom, Mongolia",Ulaangom,, Mongolia
+ZMUH,asia,47.317,110.633,"Underkhaan, Mongolia",Underkhaan,, Mongolia
+ZPBS,asia,25.117,99.183,"Baoshan, China",Baoshan,, China
+ZPDL,asia,25.7,100.183,"Dali, China",Dali,, China
+ZPDQ,asia,28.45,98.883,"Deqen, China",Deqen,, China
+ZPGM,asia,23.55,99.4,"Gengma, China",Gengma,, China
+ZPJH,asia,22,100.783,"Jinghong, China",Jinghong,, China
+ZPJM,asia,22.567,99.933,"Lancang, China",Lancang,, China
+ZPLC,asia,23.95,100.217,"Lincang, China",Lincang,, China
+ZPLJ,asia,26.833,100.467,"Lijing, China",Lijing,, China
+ZPLX,asia,24.533,103.767,"Mang City, China",Mang City,, China
+ZPPP,asia,25.017,102.683,"Kunming, China",Kunming,, China
+ZPSM,asia,22.767,100.983,"Simao, China",Simao,, China
+ZPYM,asia,25.733,101.867,"Yuanmou, China",Yuanmou,, China
+ZPZT,asia,27.333,103.75,"Zhaotong, China",Zhaotong,, China
+ZSAM,asia,24.483,118.083,"Xiamen, China",Xiamen,, China
+ZSAQ,asia,30.533,117.05,"Anqing, China",Anqing,, China
+ZSBB,asia,32.95,117.367,"Bengbu, China",Bengbu,, China
+ZSCN,asia,28.6,115.917,"Nanchang, China",Nanchang,, China
+ZSFY,asia,32.867,115.733,"Fuyang, China",Fuyang,, China
+ZSFZ,asia,26.083,119.283,"Fuzhou, China",Fuzhou,, China
+ZSGZ,asia,25.867,115,"Ganzhou, China",Ganzhou,, China
+ZSHC,asia,30.233,120.167,"Hangzhou, China",Hangzhou,, China
+ZSJA,asia,27.117,114.967,"Jian, China",Jian,, China
+ZSJD,asia,29.3,117.2,"Jingdezhen, China",Jingdezhen,, China
+ZSJN,asia,36.85,117.217,"Jinan, China",Jinan,, China
+ZSNJ,asia,31.933,118.9,"Nanjing, China",Nanjing,, China
+ZSOF,asia,31.867,117.233,"Hefei, China",Hefei,, China
+ZSQD,asia,36.067,120.333,"Qingdao, China",Qingdao,, China
+ZSRZ,asia,35.433,119.533,"Rizhao, China",Rizhao,, China
+ZSSS,asia,31.167,121.433,"Shanghai/hongqiao, China",Shanghai/hongqiao,, China
+ZSTN,asia,36.6,117.05,"Jinan, China",Jinan,, China
+ZSWF,asia,36.767,119.183,"Weifang, China",Weifang,, China
+ZSXZ,asia,34.283,117.15,"Xuzhou, China",Xuzhou,, China
+ZSYC,asia,27.8,114.383,"Yichun, China",Yichun,, China
+ZSYN,asia,33.767,120.25,"Sheyang, China",Sheyang,, China
+ZSYT,asia,37.4,122.683,"Yantai, China",Yantai,, China
+ZSZS,asia,29.934,122.362,"Zhoushan Airport, China",Zhoushan Airport,, China
+ZUBJ,asia,27.3,105.233,"Bijie, China",Bijie,, China
+ZUCK,asia,29.583,106.467,"Chongqing, China",Chongqing,, China
+ZUDC,asia,29.05,100.3,"Daocheng, China",Daocheng,, China
+ZUDX,asia,31.2,107.5,"Da Xian, China",Da Xian,, China
+ZUGY,asia,26.583,106.733,"Guiyang, China",Guiyang,, China
+ZUJZ,asia,32.65,103.567,"Songpan, China",Songpan,, China
+ZUKD,asia,30.05,101.967,"Kangding, China",Kangding,, China
+ZULP,asia,27.9,102.267,"Xichang, China",Xichang,, China
+ZULS,asia,29.667,91.133,"Lhasa, China",Lhasa,, China
+ZUMY,asia,31.45,104.733,"Mianyang, China",Mianyang,, China
+ZUNC,asia,30.8,106.083,"Nanchong, China",Nanchong,, China
+ZUNZ,asia,29.567,94.467,"Nyingchi, China",Nyingchi,, China
+ZUTC,asia,25.117,98.483,"Tengchong, China",Tengchong,, China
+ZUUU,asia,30.667,104.017,"Chengdu, China",Chengdu,, China
+ZUXC,asia,26.65,102.25,"Qingshan, China",Qingshan,, China
+ZUYB,asia,28.8,104.6,"Yibin, China",Yibin,, China
+ZUZH,asia,26.65,102.25,"Huili, China",Huili,, China
+ZWWW,asia,43.9,87.467,"Diwopu, China",Diwopu,, China
+ZYCC,asia,43.9,125.217,"Changchun, China",Changchun,, China
+ZYCY,asia,41.55,120.45,"Chaoyang, China",Chaoyang,, China
+ZYDD,asia,40.05,124.333,"Dandong, China",Dandong,, China
+ZYHB,asia,45.75,126.767,"Harbin, China",Harbin,, China
+ZYHE,asia,50.25,127.45,"Aihui, China",Aihui,, China
+ZYJM,asia,45.767,132.967,"Jiamusi, China",Jiamusi,, China
+ZYJX,asia,45.283,130.949,"Jixi, China",Jixi,, China
+ZYJZ,asia,41.133,121.117,"Jinzhou, China",Jinzhou,, China
+ZYLD,asia,47.717,128.9,"Yichun, China",Yichun,, China
+ZYMD,asia,44.567,129.6,"Mudanjiang, China",Mudanjiang,, China
+ZYQQ,asia,47.383,123.917,"Qiqihar, China",Qiqihar,, China
+ZYSQ,asia,45.083,124.867,"Qian Gorlos, China",Qian Gorlos,, China
+ZYTL,asia,38.9,121.633,"Dalian, China",Dalian,, China
+ZYTX,asia,41.633,123.483,"Taoxian, China",Taoxian,, China
+ZYUB,asia,28.8,104.6,"Yibin, China",Yibin,, China
+ZYYC,asia,27.8,114.383,"Yichuen, China",Yichuen,, China
+ZYYJ,asia,42.867,129.5,"Yanji, China",Yanji,, China
+ZYYK,asia,40.667,122.2,"Yingkou, China",Yingkou,, China
+ZYYY,asia,41.733,123.517,"Shenyang, China",Shenyang,, China
